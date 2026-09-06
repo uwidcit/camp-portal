@@ -134,7 +134,6 @@ Each camp also carries a `feedback` object that drives the Voices block:
   "nps": 69,
   "confidence": { "label": "More confident building with AI", "value": 4.8 },
   "wishLonger": 4,
-  "note": "Two test submissions were excluded from the totals.",
   "quotes": [{ "prompt": "Final comments", "text": "…" }]
 }
 ```

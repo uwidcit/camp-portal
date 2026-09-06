@@ -60,7 +60,6 @@
         "nps": 69,
         "confidence": { "label": "More confident building with AI", "value": 4.8 },
         "wishLonger": 4,
-        "note": "Two test submissions were excluded from the totals.",
         "quotes": [
           {
             "prompt": "Final comments",
@@ -97,7 +96,7 @@
         "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2025/home"
       },
       "stats": {
-        "participantCount": 60,
+        "participantCount": 47,
         "mentorCount": 10,
         "teamCount": 10,
         "projectCount": 10,
