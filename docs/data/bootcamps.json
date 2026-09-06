@@ -1,0 +1,400 @@
+{
+  "sources": {
+    "feedback": {
+      "origin": "Post-camp feedback forms, one response sheet per edition (BOOT CAMP <year> Feedback Form)",
+      "method": "Scores are averages of the raw responses in each year's sheet. Quotes are participant comments, published anonymously.",
+      "note": "The aggregated master sheet carries generated sample rows, so it was not used for the numbers."
+    }
+  },
+  "camps": [
+    {
+      "year": 2026,
+      "title": "AI-Builders Boot Camp 2026",
+      "edition": {
+        "officialTitle": "DCIT AI-Builders Boot Camp 2026",
+        "track": "AI Builders",
+        "theme": "Empowering Tomorrow’s Innovators: From Curiosity to Creation with AI",
+        "dates": "July 20–27, 2026",
+        "audience": "Secondary school Forms 4, 5 and 6",
+        "format": "Five days online plus a face-to-face showcase",
+        "summary": "No prior coding experience required. Students moved from curiosity to creation with AI, building intelligent web apps and working with generative AI for game development, data analytics and web development alongside alumni mentors.",
+        "topics": ["Intelligent web apps", "Generative AI for games", "Data analytics", "Web development"],
+        "stack": ["OpenAI SDKs", "Firebase", "Python", "Google Colab"],
+        "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2026/home"
+      },
+      "stats": {
+        "participantCount": 42,
+        "mentorCount": 8,
+        "teamCount": 8,
+        "projectCount": 8,
+        "prizeRecordCount": 15,
+        "sponsorCount": 2,
+        "scholarshipCount": 9,
+        "feedbackResponseCount": 13
+      },
+      "teams": [
+        { "name": "Laser Taggerz", "project": "Laser Arena", "url": "https://babylon-laser-tagzip--devansookdeo201.replit.app/" },
+        { "name": "Mystic Chemist", "project": "Mystic Chemist", "url": "https://richardsonsheronne-sudo.github.io/Mystic-Chemist/index-standalone.html" },
+        { "name": "DataBeats", "project": "The Hit Lab", "url": "https://github.com/Chenice865/the-hit-lab" },
+        { "name": "Thrift Corp.", "project": "Thrift TT", "url": "https://replit.com/@NaveedAli9/Asset-Manager" },
+        { "name": "Island Balancers", "project": "Island Balancers", "url": "https://island-balancer--lyssidevo.replit.app/dashboard" },
+        { "name": "QuestDevs", "project": "Fit Quest", "url": null },
+        { "name": "Tech Titans", "project": "Rhythm 5", "url": "https://cyberpunk-beat-master--KristanMartinez.replit.app" },
+        { "name": "Whacks Inc.", "project": "Whack a Mole Central", "url": "https://mole-central-leaderboard--huzayfahhosein.replit.app/" }
+      ],
+      "sponsors": [
+        { "name": "ZS Associates", "tier": "Scholarship sponsor", "scholarships": 5 },
+        { "name": "ISACA", "tier": "Scholarship sponsor", "scholarships": 4 }
+      ],
+      "prizes": [
+        { "category": "Best Project Presentation", "winners": ["Sheronne Richardson", "Javeed Ali", "Satyavaan Adalath", "Nehemyah Grandison"] },
+        { "category": "Engagement Excellence Awarded", "winners": ["Sheronne Richardson"] },
+        { "category": "Best Overall Project", "winners": ["Jelani Dash", "Xane Harry", "David Ramlakhan", "Devan Sookdeo", "Chalsie Craigg"] },
+        { "category": "Gaming", "winners": ["Ronaldo Lewis", "Xane Harry", "Chioke Sobers"] },
+        { "category": "Most Budding AI Maven", "winners": ["Alaina Caruth"] }
+      ],
+      "feedback": {
+        "responseCount": 13,
+        "satisfaction": 4.5,
+        "recommend": 8.9,
+        "nps": 69,
+        "confidence": { "label": "More confident building with AI", "value": 4.8 },
+        "wishLonger": 4,
+        "quotes": [
+          {
+            "prompt": "Final comments",
+            "text": "This bootcamp was really fun and interactive especially with my mentor who supported us and helped us in making our project and presenting it."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "I loved the camp, it reinforced and added on to my knowledge of the world of AI and programming."
+          },
+          {
+            "prompt": "Liked most",
+            "text": "Informative, interactive and truly novel lessons"
+          },
+          {
+            "prompt": "Final comments",
+            "text": "Really amazing bootcamp, would recommend to friends and or family to join."
+          }
+        ]
+      }
+    },
+    {
+      "year": 2025,
+      "title": "AI-Builders Boot Camp 2025",
+      "edition": {
+        "officialTitle": "DCIT AI-Builders Boot Camp 2025",
+        "track": "AI Builders",
+        "theme": "Empowering Tomorrow’s Innovators: From Curiosity to Creation with AI",
+        "dates": "July 21–28, 2025",
+        "audience": "Secondary school Forms 4, 5 and 6",
+        "format": "Five days online plus a face-to-face showcase",
+        "summary": "The first AI-Builders edition. Students designed intelligent web apps, explored generative AI in gaming, and made sense of data through interactive visualisations.",
+        "topics": ["Intelligent web apps", "Generative AI in gaming", "Interactive data visualisation"],
+        "stack": ["OpenAI", "TensorFlow", "Firebase", "Unity", "Google Colab"],
+        "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2025/home"
+      },
+      "stats": {
+        "participantCount": 47,
+        "mentorCount": 10,
+        "teamCount": 10,
+        "projectCount": 10,
+        "sponsorCount": 2,
+        "scholarshipCount": 11,
+        "feedbackResponseCount": 20
+      },
+      "teams": [
+        { "name": "The Archangles", "project": "PokeQuiz", "url": "https://replit.com/@eshanandeopersa/Pokemon-Ultimate-pokemon-Quiz-challenge-1" },
+        { "name": "Code Runners", "project": "Platformer", "url": "https://replit.com/@ronelramtahal1/CodeRun" },
+        { "name": "C.O.P.E", "project": "COPE Games", "url": "https://replit.com/@huzayfahhosein/WoozyGiantQueryplan#index.html" },
+        { "name": "OpportuniT&T", "project": "OpportuniT&T", "url": "https://replit.com/@emwms/OpportuniTandT-Website" },
+        { "name": "Sleep Deprived Squad", "project": "Trendtube", "url": "https://replit.com/@omanandeopersad/TrendTube-Sleep-Deprived-Squad-Group-4?v=1#main.py" },
+        { "name": "Forest Forge", "project": "Forest Forge", "url": "https://replit.com/@devernchattergo/forest-and-fantasy?v=1" },
+        { "name": "DecibelDevs", "project": "TuneFinder", "url": "https://replit.com/@anaduquehosein/TuneFinder-1#index.html" },
+        { "name": "Dream Stack", "project": "Habit Haven", "url": "https://replit.com/@keyangoodridge/havenofhabits?v=1" },
+        { "name": "The Arcadians", "project": "Arcadia Zone", "url": "https://replit.com/@oveskalam786/ArcadiaZone-1#index.html" },
+        { "name": "Dash Devs", "project": "Tournament of Platformers", "url": "https://replit.com/@NishelleRennie/TournamentOfPlatformers?v=1" }
+      ],
+      "sponsors": [
+        { "name": "ZS Associates", "tier": "Silver (5 students, $3625 TTD)", "scholarships": 5 },
+        { "name": "ISACA", "tier": "Silver (5 students, $3625 TTD)", "scholarships": 6 }
+      ],
+      "prizes": [],
+      "feedback": {
+        "responseCount": 20,
+        "satisfaction": 4.0,
+        "recommend": 8.0,
+        "nps": 35,
+        "confidence": { "label": "More confident building with AI", "value": 4.4 },
+        "wishLonger": 7,
+        "quotes": [
+          {
+            "prompt": "Liked most",
+            "text": "I especially loved the project. Being given the opportunity to think of our own thing to work on was incredible. That, along with my fun group members and mentor, gave me an amazing experience."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "This AI Boot Camp helped open my eyes to the infinite possibilities that AI provides for us humans in our day-to-day lives and tasks and helped put into perspective how they can be effectively used."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "I really enjoyed this camp because it expanded my knowledge on how AI works and its real world applications"
+          },
+          {
+            "prompt": "Liked most",
+            "text": "The mentors and teachers took the time to ensure we understood the topics"
+          }
+        ]
+      }
+    },
+    {
+      "year": 2024,
+      "title": "Innovations in Data Science Boot Camp 2024",
+      "edition": {
+        "officialTitle": "DCIT Innovations in Data Science Boot Camp 2024",
+        "track": "Innovations in Data Science",
+        "dates": "July 22–29, 2024",
+        "audience": "Aspiring data enthusiasts, open to boys and girls",
+        "format": "Online virtual classroom with video tutorials and guided labs",
+        "partners": ["T&T Women in Data Science (WiDS)"],
+        "summary": "Run in collaboration with Women in Data Science TT. The curriculum ran from data exploration through machine learning and data storytelling, with industry experts and UWI mentors, and teams presented Google Colab notebooks.",
+        "topics": ["Data exploration", "Data analysis", "Statistical modelling", "Machine learning algorithms", "Programming foundations", "Data storytelling"],
+        "stack": ["Google Colab", "Google Classroom", "Zoom", "Discord"],
+        "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2024/home"
+      },
+      "stats": {
+        "participantCount": 26,
+        "mentorCount": 6,
+        "teamCount": 6,
+        "projectCount": 6,
+        "prizeRecordCount": 10,
+        "sponsorCount": 1,
+        "scholarshipCount": 10,
+        "feedbackResponseCount": 18
+      },
+      "teams": [
+        { "name": "The Algorithm Detectives", "project": "The Marvel Metrics: A Financial and Critical Performance Analysis", "url": "https://colab.research.google.com/drive/10G3moXRlnFUVHu3UpvnzJf_hGGsSeua-?usp=sharing" },
+        { "name": "Data Knights", "project": "Clustering of Netflix Movies and TV shows", "url": "https://colab.research.google.com/drive/1UnEqlPJMecNn2nuNSzMYPGgAtQRdkvO4?usp=sharing" },
+        { "name": "Data Science Bosses", "project": "UFO Sightings", "url": "https://colab.research.google.com/drive/1cFzyJFr2deNsJ_CZ6AIWSJj2dZcT1ZjL?usp=sharing" },
+        { "name": "Phantom Troupe", "project": "A Study on Student Achievement and factors that influence it.", "url": "https://colab.research.google.com/drive/1Yh2JDqI_TjnkwOj_1jBc7gnqz6PJXQLn?usp=sharing" },
+        { "name": "Data Learners", "project": "Starbucks Nutrition Menu Drinks", "url": "https://colab.research.google.com/drive/1ZIc-kmgL1gm3UyEEfrKsBOsTZFurAbmh?usp=sharing" },
+        { "name": "Digital Pigeon", "project": "Analysis of Wildlife Strikes on Aircrafts from 1990 to 2015", "url": "https://colab.research.google.com/drive/13_LsUrF-RsJiy0UTPlDGL-JolhvAb9XR?usp=sharing" }
+      ],
+      "sponsors": [{ "name": "ISACA", "tier": "Scholarship sponsor", "scholarships": 10 }],
+      "prizes": [
+        { "category": "Best Project Presentation", "winners": ["Devonte Harewood", "Micah Joseph", "Sage Woodley", "Terell Munroe"] },
+        { "category": "Best Overall Project", "winners": ["Maya Miller", "Keanu Weekes", "Joseph Oliveire"] },
+        { "category": "Best Data Detective", "winners": ["Kayla Linton", "Genesis Semper"] },
+        { "category": "Data Camp Dynamo", "winners": ["Jada Marie Jack"] }
+      ],
+      "feedback": {
+        "responseCount": 18,
+        "satisfaction": 4.3,
+        "recommend": 8.0,
+        "nps": 17,
+        "wishLonger": 5,
+        "note": "The confidence question on the 2024 form still asked about web apps rather than data science, so it is not reported here.",
+        "quotes": [
+          {
+            "prompt": "Final comments",
+            "text": "I loved this camp, just loved it. It gave a really good insight to the world of data science and its different aspects."
+          },
+          {
+            "prompt": "Liked most",
+            "text": "How accepting our mentors were to us being beginners, and patient with our mistakes and misunderstanding."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "I would like to thank the department for hosting this boot camp. I am very appreciative to have the opportunity to attend it."
+          },
+          {
+            "prompt": "Liked most",
+            "text": "It was informative and allowed me to widen my horizon regarding data science"
+          }
+        ]
+      }
+    },
+    {
+      "year": 2023,
+      "title": "Web Development Boot Camp 2023",
+      "edition": {
+        "officialTitle": "DCIT Web Development Boot Camp 2023",
+        "track": "Web Development",
+        "dates": "July 17–24, 2023",
+        "audience": "Beginners building a first full web app",
+        "format": "Online programme covering parts of INFO 1601, mentored by students of the course",
+        "summary": "Fundamentals of web development through to a working web app, adding AJAX and web APIs to user interface design and web animation, with mentorship, career guidance and alumni guest speakers.",
+        "topics": ["AJAX and web APIs", "User interface design", "Web animations", "Career guidance"],
+        "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2023/home"
+      },
+      "stats": {
+        "participantCount": 33,
+        "mentorCount": 7,
+        "teamCount": 7,
+        "projectCount": 7,
+        "scholarshipCount": 9,
+        "sponsorCount": 2,
+        "feedbackResponseCount": 23
+      },
+      "teams": [
+        { "name": "C.O.P.E", "project": "Minecraft Info", "url": "https://mc-concepts.nathanielphill6.repl.co/" },
+        { "name": "Goofy Goobers", "project": "Weather", "url": "https://weather-goofy-goober.onrender.com/" },
+        { "name": "Sleep Deprived Squad", "project": "Foodwise", "url": "https://foodwise.kimberlymoses.repl.co/" },
+        { "name": "Attack on CSS", "project": "Workout Wiz", "url": "https://superb-stardust-001658.netlify.app/" },
+        { "name": "BSAJ3", "project": "Anirecommend", "url": "https://anirecommend.netlify.app/" },
+        { "name": "Typhoon", "project": "Shark Stocks", "url": "https://sharks-stocks.onrender.com/index.html" },
+        { "name": "Bird Believers", "project": "Trinidad Birds", "url": "https://uni-paul-taylor2.github.io/" }
+      ],
+      "sponsors": [
+        { "name": "Prof Patrick Hosein", "tier": "Scholarship sponsor" },
+        { "name": "Jared Hosein", "tier": "Scholarship sponsor" }
+      ],
+      "prizes": [],
+      "feedback": {
+        "responseCount": 23,
+        "satisfaction": 4.5,
+        "recommend": 9.0,
+        "nps": 70,
+        "confidence": { "label": "More confident building web apps", "value": 4.0 },
+        "wishLonger": 16,
+        "quotes": [
+          {
+            "prompt": "Final comments",
+            "text": "I was able to go from someone who knew little about programming to someone now capable of writing my own code and co-developing my own website."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "Enjoyed the boot camp, was interesting, 10/10 would highly recommend."
+          },
+          {
+            "prompt": "Liked most",
+            "text": "The mentors, socialising, making new friends was so much fun"
+          },
+          {
+            "prompt": "Liked most",
+            "text": "I loved working with my mentor and creating the design of my group's website"
+          }
+        ]
+      }
+    },
+    {
+      "year": 2022,
+      "title": "Web Development Boot Camp 2022",
+      "edition": {
+        "officialTitle": "DCIT Web Development Boot Camp 2022",
+        "track": "Web Development",
+        "dates": "July 18–25, 2022",
+        "audience": "Students with no programming experience",
+        "format": "Fully online e-classroom with video tutorials, live instruction and guided labs",
+        "summary": "Took students with no programming experience to budding web developer, covering design, coding and deployment, with guest speakers and UWI mentors drawn from INFO 1601.",
+        "topics": ["Website design", "Web technology basics", "Animation", "Programming basics"],
+        "stack": ["Schoology", "Discord", "Zoom"],
+        "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2022/home"
+      },
+      "stats": {
+        "participantCount": 49,
+        "mentorCount": 12,
+        "teamCount": 12,
+        "projectCount": 10,
+        "scholarshipCount": 10,
+        "sponsorCount": 1,
+        "feedbackResponseCount": 21
+      },
+      "teams": [
+        { "name": "Dog Whisperers", "project": "Find Your Perfect Pup!", "url": "https://findyourperfectpup.netlify.app" },
+        { "name": "Code Buds", "project": "Premium Movies", "url": "https://premium-movies-7b9c8.web.app/" },
+        { "name": "Code:Symphony", "project": "Playlist Maker", "url": "https://code-symphony-playlist-project.vercel.app/" },
+        { "name": "RADIANTS", "project": "Radiants", "url": "https://valorant-webapp.vercel.app/" },
+        { "name": "Silver Dragons", "project": "Anime Hotspot", "url": "https://anime-hotspot.writersiceheart.repl.co/#" },
+        { "name": "Attack On CSS", "project": "Movie Searcher", "url": "https://AttackOnCSS.vodkyle.repl.co" },
+        { "name": "TACT Tycoons", "project": "Superheroes of the known multiverse", "url": "https://finale-seven.vercel.app/" },
+        { "name": "The Nameless", "project": "Gameology", "url": "https://thenameless-gameology.netlify.app/" },
+        { "name": "R.A.M", "project": "Rickypedia", "url": "https://wdb-project.rickypedia.repl.co/" },
+        { "name": "S.I.M.P.", "project": "Historic Meteorites", "url": "https://historic-meteorites-s-i-m-68ll5x1rp-zanerui.vercel.app" }
+      ],
+      "sponsors": [{ "name": "Jared Hosein", "tier": "Scholarship sponsor" }],
+      "prizes": [],
+      "feedback": {
+        "responseCount": 21,
+        "satisfaction": 4.4,
+        "recommend": 8.6,
+        "nps": 48,
+        "confidence": { "label": "More confident building web apps", "value": 4.2 },
+        "wishLonger": 11,
+        "quotes": [
+          {
+            "prompt": "Final comments",
+            "text": "Thank you to all the staff members who helped in making this boot camp so enjoyable and informative. It was really a pleasure working alongside computer science students and creating something I didn't think was possible for me."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "I am extremely grateful to have been given the opportunity to attend this camp, I honestly can not thank you all enough."
+          },
+          {
+            "prompt": "Liked most",
+            "text": "I enjoyed learning how to create my own website, and doing the activities provided."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "The Course helped me understand designing a website and further improved my knowledge regarding Computer Science"
+          }
+        ]
+      }
+    },
+    {
+      "year": 2021,
+      "title": "Cyber Security Concepts Boot Camp 2021",
+      "edition": {
+        "officialTitle": "Cyber Security Concepts Boot Camp 2021",
+        "track": "Cyber Security Concepts",
+        "dates": "August 6–13, 2021",
+        "audience": "Forms 4, 5 and 6, plus students entering undergraduate programmes",
+        "format": "Fully online course with video tutorials, live instruction and guided labs",
+        "partners": ["Information Systems Audit and Control Association (ISACA)"],
+        "summary": "Run in collaboration with ISACA. The camp covered protecting systems from digital attack in an age of malware and breaches, and included cyber safety training so participants could handle the digital world responsibly.",
+        "topics": ["Cyber security concepts", "Cyber safety", "Malware and information breaches"],
+        "stack": ["Oracle APEX", "Schoology", "Slack", "Moodle"],
+        "source": "https://sta.uwi.edu/fst/dcit/bootcamp/2021/home"
+      },
+      "stats": {
+        "registrationRecordCount": 38,
+        "participantCount": 29,
+        "mentorCount": null,
+        "teamCount": null,
+        "projectCount": null,
+        "sponsorCount": null,
+        "feedbackResponseCount": 20
+      },
+      "teams": [],
+      "sponsors": [],
+      "prizes": [],
+      "feedback": {
+        "responseCount": 20,
+        "satisfaction": 4.0,
+        "recommend": 8.1,
+        "nps": 30,
+        "confidence": { "label": "More confident on cyber safety", "value": 3.9 },
+        "wishLonger": 8,
+        "quotes": [
+          {
+            "prompt": "Liked most",
+            "text": "Despite the complexity of the field of cyber security, this camp has done well of introducing the overall concept to ones unfamiliar."
+          },
+          {
+            "prompt": "Final comments",
+            "text": "I enjoyed the past week and it exposed me to the practical aspects of I.T. I would also like to thank everyone involved in the organization and execution of this Bootcamp."
+          },
+          {
+            "prompt": "Liked most",
+            "text": "Learning the different encryption methods, labs and the guest speakers"
+          },
+          {
+            "prompt": "Final comments",
+            "text": "Thanks for everything...And hope to see you all soon in UWI!!!"
+          }
+        ]
+      }
+    }
+  ]
+}

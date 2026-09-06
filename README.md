@@ -18,8 +18,13 @@ npm run build
 ## GitHub Pages
 
 The app is configured for a repository named `camp-portal` with Vite `base: '/camp-portal/'`.
+Build output goes to **`docs/`** so GitHub Pages can serve from that folder.
 
-Enable GitHub Pages in the repository settings and set the source to **GitHub Actions**. The workflow in `.github/workflows/deploy.yml` builds and deploys `dist` on pushes to `main`.
+```bash
+npm run build
+```
+
+In the repository settings, set Pages source to **Deploy from a branch**, branch `main`, folder **`/docs`**. Commit the `docs/` folder after each production build.
 
 Live site: https://uwidcit.github.io/camp-portal/
 

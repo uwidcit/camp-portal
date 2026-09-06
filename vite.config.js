@@ -9,6 +9,8 @@ export default defineConfig({
   plugins: [react()],
   base: '/camp-portal/',
   build: {
+    outDir: 'docs',
+    emptyOutDir: true,
     rollupOptions: {
       input: {
         main: resolve(rootDir, 'index.html'),
