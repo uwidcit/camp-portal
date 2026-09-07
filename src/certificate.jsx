@@ -4,6 +4,7 @@ import { Award, Download, Lock, Mail, ShieldCheck, UserRound } from 'lucide-reac
 import { decryptSecret } from './lib/certCrypto';
 import { applyPalette, latestPalette } from './lib/brand';
 import { emailVariants, NAME_MATCH_THRESHOLD, nameScore } from './lib/fuzzy';
+import { fetchRemoteUnlockKeys, submitUnlocks } from './lib/unlockLog';
 import { areUnlocked, unlock } from './lib/unlockStore';
 import { FeedbackSurvey } from './feedback';
 import { Block, Masthead } from './ui';
@@ -33,7 +34,10 @@ function CertificateApp() {
     setUnlocked(false);
 
     try {
-      const response = await fetch(`${import.meta.env.BASE_URL}data/certificates.json`);
+      const [response, remoteKeys] = await Promise.all([
+        fetch(`${import.meta.env.BASE_URL}data/certificates.json`),
+        fetchRemoteUnlockKeys()
+      ]);
       if (!response.ok) throw new Error(`Could not load certificate index (${response.status})`);
       const payload = await response.json();
       const variants = emailVariants(email);
@@ -61,13 +65,14 @@ function CertificateApp() {
           year: record.year,
           camp: record.camp,
           url,
+          collected: Boolean(record.collected),
           score
         });
       }
 
       matches.sort((a, b) => b.year - a.year || b.score - a.score);
       setResults(matches);
-      setUnlocked(areUnlocked(matches));
+      setUnlocked(areUnlocked(matches, remoteKeys));
       setStatus(matches.length ? 'found' : 'empty');
     } catch (lookupError) {
       setError(lookupError instanceof Error ? lookupError.message : 'Lookup failed');
@@ -136,8 +141,9 @@ function CertificateApp() {
               published in this site&rsquo;s data.
             </li>
             <li>
-              The feedback survey is anonymous. It is not linked to your name, email or certificate, and it is
-              only asked once per device.
+              The feedback survey is anonymous. It is not linked to your name, email or certificate. After you
+              unlock once, repeat requests skip the survey on this device and on others once the unlock log
+              updates.
             </li>
           </ul>
         </Block>
@@ -207,6 +213,7 @@ function CertificateApp() {
           <FeedbackSurvey
             onComplete={() => {
               unlock(results);
+              void submitUnlocks(results);
               setUnlocked(true);
               window.scrollTo({ top: 0, behavior: 'smooth' });
             }}

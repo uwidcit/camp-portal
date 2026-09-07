@@ -75,9 +75,29 @@ npm run certs
 
 ## Feedback gate
 
-A matched participant sees the feedback survey instead of a download link. Submitting it unlocks the certificate and records the unlock in `localStorage`, so the survey is asked once per device.
+A matched participant sees the feedback survey instead of a download link. Submitting it unlocks the
+certificate, stores the unlock in `localStorage` on that device, and appends **year + name** to a
+separate Google Sheet unlock log (not the anonymous feedback sheet). Lookup also reads that Sheet, so
+repeat requests on other devices skip the survey once the row appears.
 
-The survey is a native React rendering of the Boot Camp Feedback Google Form. It posts directly to that form's public `formResponse` endpoint, so answers land in the same Google response sheet as the original form. Responses are anonymous and carry no link to the participant's name, email or certificate.
+Optional fallback: `data/raw/collected.json` still sets a build-time `collected` flag if you need an
+offline seed. Do not treat “Cert URL issued in Airtable” as collected.
+
+### Unlock log (Google Sheet)
+
+Live assets (already wired in `src/lib/unlockLog.js`):
+
+- Form: [Certificate unlock log form](https://docs.google.com/forms/d/1V1WLjnPoVDel3l8qTc5r1kAaL0nLj3I3bCIsW6fhzk0/edit)
+- Responses sheet: [Certificate unlock log form (Responses)](https://docs.google.com/spreadsheets/d/1DL2SpsAnwDelftEvWsAv7rEvW4eV_jTR5WexPeJMPV4/edit) — shared **Anyone with the link → Viewer**
+
+If the form is edited, re-extract field IDs:
+
+```bash
+node scripts/extract-unlock-form.mjs "https://docs.google.com/forms/d/e/1FAIpQLSeXmL3Xu_ExfeLwFA7MfQHKc5l1XwUcnqJj3yUnDR4oLQt6cw/viewform"
+```
+
+
+The survey is a native React rendering of the Boot Camp Feedback Google Form. It posts directly to that form's public `formResponse` endpoint, so answers land in the same Google response sheet as the original form. Responses are anonymous and carry no link to the participant's name, email or certificate. Unlock logging is a second, separate form that only stores year and name.
 
 The question list, field IDs and exact option strings live in `src/lib/feedbackForm.js`. Option `value` must match Google's stored text exactly; `label` is what participants see, which is how the "Whis it was shorter" typo is displayed correctly without breaking the data.
 

@@ -5,7 +5,7 @@ This folder contains JSON that is committed with the repo and deployed with the 
 ## Files
 
 - `bootcamps.json` - public-safe portal data for yearly camps, teams, projects, sponsors, prizes, and stats.
-- `certificates.json` - unlisted certificate lookup index. Names and years only; emails are not included. Certificate URLs are stored encrypted.
+- `certificates.json` - unlisted certificate lookup index. Names and years only; emails are not included. Certificate URLs are stored encrypted. `collected: true` is an optional build-time skip flag. Live unlocks also go to a published Google Sheet read at lookup time.
 
 ## Rules
 

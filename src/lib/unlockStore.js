@@ -1,7 +1,9 @@
+import { unlockKey } from './unlockLog';
+
 const STORAGE_KEY = 'dcit-camp-certificate-unlocks';
 
 function recordKey(record) {
-  return `${record.year}::${record.name.toLowerCase()}`;
+  return unlockKey(record.year, record.name);
 }
 
 function readKeys() {
@@ -13,10 +15,16 @@ function readKeys() {
   }
 }
 
-export function areUnlocked(records) {
+export function areUnlocked(records, remoteKeys = null) {
   if (!records.length) return false;
-  const keys = readKeys();
-  return records.every((record) => keys.includes(recordKey(record)));
+  const local = readKeys();
+  const remote = remoteKeys instanceof Set ? remoteKeys : null;
+  return records.every(
+    (record) =>
+      Boolean(record.collected) ||
+      local.includes(recordKey(record)) ||
+      (remote !== null && remote.has(recordKey(record)))
+  );
 }
 
 export function unlock(records) {
@@ -25,6 +33,7 @@ export function unlock(records) {
     for (const record of records) keys.add(recordKey(record));
     localStorage.setItem(STORAGE_KEY, JSON.stringify([...keys]));
   } catch {
-    // A blocked or full localStorage only costs the participant a repeat survey.
+    // A blocked or full localStorage only costs a repeat survey on this device
+    // unless the remote Sheet log already has the row.
   }
 }

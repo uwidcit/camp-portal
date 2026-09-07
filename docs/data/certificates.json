@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-05",
-  "privacy": "Emails are not stored. Certificate URLs are encrypted with the registration email.",
+  "generatedAt": "2026-09-07",
+  "privacy": "Emails are not stored. Certificate URLs are encrypted with the registration email. collected means they already unlocked via this app (survey done), not merely that a cert was issued.",
   "records": [
     {
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Adam Ali Baksh",
+      "collected": false,
       "secrets": [
         "wBsrOI+c1DaE1MIJa37nApp28si/nJi7b/U30YKCgr6aW2Yrz5bKKN2D0RhtPbRVlWDzia3bl7Fx9WvSj4uI4pgLci3MlcI0jIWOSyNu4lqXL/TD+4PPt2PiZdDf0ZSazA4yF73Kkkar1twJZiL0CZI=",
         "W2wyv+1BqeKUUb69PHG/1czqgj2ehQZgvJGtoUUEBk0BLH+srUu3/M0Graw6MuyCw/yDfIzCCWqikfGiSA0MEQN8a6quSL/gnADy/3Rhuo3Bs4Q22ppRbLCG/6AYVxBpV3krkN8X75K7U6C9MS2s3sQ="
@@ -15,6 +16,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Adam Baksh",
+      "collected": false,
       "secrets": [
         "YDIj1bwQYaARbgBifEUIL/MH8hBkOqTCQG+ZtgQj2606cm7G/Bp/vkg5E3N6Blt4/BHzUXZ9q8heb8XlWCTa+Gp/epf7THeiTDoRJjRSCnOoXqAYdSX/mh0ixOZZcc2JbCc6+o1LJfwUIwV1fw==",
         "ojO8BeWa+jMyYTZbSsWZkUtGja799UB0YVhX5sLhlNb4c/EWpZDkLWs2JUpMhsrGRFCM7++yT35/WAu1nuaVg6h+5UeixuwxbzUnHwLSm80QH9+m7OobLDwVCrafs4LyrialKtTBvm83LDNMSQ=="
@@ -24,6 +26,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Adrienne Montserin",
+      "collected": false,
       "secrets": [
         "+WqE9hfDXwSeX4i5i2AkcxosEQkskK6qKeolTTm3BxqjKsnlV8lBGscIm6iNI3ckFToQSD7XoaA36iQdOLFdR6gp3eBVmxMGlQXNqcNxd3pMdUBeOo2uoCGndB1kthE+9WyZ4wqXFXS+U5O+nXc1dRp2BAM+"
       ]
@@ -32,6 +35,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Aiden Bissram",
+      "collected": false,
       "secrets": [
         "2nYgId8rZg==",
         "Kl0uiOv/0Q=="
@@ -41,6 +45,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Alaina Caruth",
+      "collected": false,
       "secrets": [
         "XtoeEtBxgzu4/V/xCEKjwSfyJLO49L6YZSdPN2amI1oEmlMBkHudJeGqTOAOAfCWKOQl8qqzsZJ7JxxiO6F/Bg/KRwGXKZo5564cukBU8Zl/q3m/ruq8wzwwHDE88TV+Ws8DDMIU73Wn617qQ0CkyA==",
         "+Rw30i+gC9SCsN4J6MVHFM9uebXdjcYnj5jmzTOjO3+jXHrBb6oVytvnzRjuhhRDwHh49M/KyS2RmLWYbqRnI6gMbsFo+BLW3eOdQqDTFUyXNyS5y5PEfNaPtctp9C1b/QkqzD3FZ5qdpt8So8dAHQ=="
@@ -50,6 +55,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Analeen Caruth",
+      "collected": false,
       "secrets": [
         "NUairXfEV2ebvrPxeJi9cFsFDLc/ieth6UPGoq7mmSdvBu++N85JecLpoOB+2+4nVBMN9i3O5Gv3Q8fx9e+ZIDgK++k0nU9lwu72szCL6ixQXFvqcpW+N7ZdlvfztY8DM1O6uGGQJwuXr7P2dcSue1M=",
         "+Rw30i+gC9SCsN4J6MVHFM9uebXdjcYnj5jmzTOjO3+jXHrBb6oVytvnzRjuhhRDwHh49M/KyS2RmOeeaKo7ePRQbpZs+RPW2+CbS6DWEEjENy7okJGTcdCGtphu8C1b/wkvxzn0e7iOod4O5ZlUH8c="
@@ -59,6 +65,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Arwaa McQuan",
+      "collected": false,
       "secrets": [
         "ZimIdeTvMQ==",
         "2s2N2T2qng=="
@@ -68,6 +75,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Ashton Seenath",
+      "collected": false,
       "secrets": [
         "5wqb3Kg7hXFOJDBUTLhS0S+Kx8/NCgTrtXxDehdXT629StbP6DGbbxdzI0VK+wGGIJzGjt9NC+GrfBAuHV9D+LcawpS9ZJlzFCQmEwT9U49x05DC2BEFvOg1Hn0fAlmJ/Babw7Ve+TtGKSRTQeRB2ic=",
         "ymvj9WkJRYoTbUSq4sQCzYVkhCO9aNVbUOURGalzMZeQK67mKQNblEo6V7vkh1GainKFYq8v2lFO5UJNo3s9wpp7ur18VlmISW1S7aqBA5PbPdMuqHPUDA2sTB6hJiez0Xfj6nRsOcAbYFCt75gRxo0="
@@ -77,6 +85,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Candice Manzano",
+      "collected": false,
       "secrets": [
         "MjyhxDm6tA=="
       ]
@@ -85,6 +94,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Chalsie Craigg",
+      "collected": false,
       "secrets": [
         "s97NHsFS4q4uTPdKIwUqFcysFRmN+/b140sppjoMMEDpnoANgVj8sHcb5FslRnlCw7oUWJ+8+f/9S32jMlxoRO7PlFiLW6+sIh/kCmsRfhuX9RNEzrf3rLlRePMzDyZms8vVHdsNksIxTuteIVk5HsQ=",
         "1ipcjai2tUm1Hub52ccPtos0507VCnjJmn9WEchw2d+MahGe6LyrV+xJ9ejfhFzhhCLmD8dNd8OEfwIUwCCB24s7Bcviv/hLuU31uZHTW7jQbeETlkZ5kMBlB0TBc8/51j9EjrLpxSWqHPrt25scvYM="
@@ -94,6 +104,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Chioke Sobers",
+      "collected": false,
       "secrets": [
         "3B6ABvbMV2SYB+zVFceMB0iOJcXWX5C+U8OutXlvTROGXs0VtsZJesFQ/8QThN9QR5gkhMQYn7RNw6iwc28SEIZT2RDgkxxmzVGvkV2N3loQ13iTwxPB5wyJ/OIibFs13AObHeCpKySXAevVXsWLDg==",
         "4jACqBsU+IgVXVUr9HJ+xnU0TiikiuoPu5NndHZ8jUi4cE+7Wx7mlkwKRjryMS2ReiJPabbN5QWlk2FxfHzSS7h9W74NS7OKQAsWb7w4LJstbRN+sca7VuTZNSMtf5tu4i0Zsw1xhMgaW1Irv3B5zw=="
@@ -103,15 +114,17 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "David Ramlakhan",
+      "collected": false,
       "secrets": [
-        "WL/REaqIrSIorRQzpIzfFo5f97o3z0cjRpOCL+SwZegC/5wC6oKzPHH6ByKiz4xBgUn2+yWISClYk4Yt7LluulWqiFTugbcgJ/pVcOzN2UvQBvOxIdIWfhLahi/kuHPJUb3MBYbg42AprwoooJCSCYRN",
-        "ZJ+cq5Vy6xL0a0HWE9Ti4JD89okD6ZVv8/W5e1wpgvE+39G41Xj1DK08UscVl7G3n+r3yBGummXt9b15VCCJo2mKxe7Re/EQ+zwAlVuV5L3OpfKCFfTEMqe8vXtcIZTQbZ2Bv7kapVD1aV/NF8iv/5ru"
+        "WL/REaqIrSIorRQzpIzfFo5f97o3z0cjRpOCL+SwZegC/5wC6oKzPHH6ByKiz4xBgUn2+yWISClYk9QoueVt7FX4iAfsg+EgIPhYeOyajEiGBqDhdddFdRKF33jr4HPJUb3MBYbg42AprwoooJCSCYRN",
+        "ZJ+cq5Vy6xL0a0HWE9Ti4JD89okD6ZVv8/W5e1wpgvE+39G41Xj1DK08UscVl7G3n+r3yBGummXt9e98AXyK9WnYxb3TeacQ/D4NnVvCsb6YpaHSQfGXOafj5CxTeZTQbZ2Bv7kapVD1aV/NF8iv/5ru"
       ]
     },
     {
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Devan Sookdeo",
+      "collected": false,
       "secrets": [
         "FWzN256cIgOtCcf1mm4lMPsQlD7ZYgpqqXCMnKYbpx9PLIDI3pY8HfRe1OScLXZn9AaVf8slBWC3cNHIrBz8T056lJndxz8B81iBtdIoJ2aiScNmm3sLY/c52ZmsGbE+GG7YxbL1YkOrDtfp0WwiOQ==",
         "tDe9gOdAQv4X8mxrY8frsIVoTlq7NPDbhnSyF7jdwb7ud/CTp0pc4E6lf3plhLjnin5PG6lz/9GYdO9Dstqa7u8h5MKkG1/8SaMqKyuB6ebcMRkC+S3x0tg95xKy39efuTWonsspAr4R9Xx3KMXsuQ=="
@@ -121,6 +134,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Devesh Maharaj",
+      "collected": false,
       "secrets": [
         "laXAdhNLqQ8n6D4n8USJF5XZ9UjYqHZ7MolpRUj/sbnP5Y1lU0G3EX6/LTb3B9pAms/0CcrveXEsiTpCRKi+usnhmT5XReANL+l/YrkF0xrPgKVEnrB2ImaeOkNIraeYmKfRdQguy0Ei6jk1/hiaHJ0=",
         "s6uNYaUOphneXoH1nXsH6j0LSJGTzbcFJ++/IFdZVU3p68By5QS4B4cJkuSbOFS9Mh1J0IGKuA857+wnWw5aTu/v1CnhAO8b1l/AsNU6XednUhid1dW3XHP47CZXC0NsvqmcYr5rxFfbXIbnkicU4TU="
@@ -130,6 +144,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Ethan Joseph",
+      "collected": false,
       "secrets": [
         "4qUapwHY+g==",
         "PagjrJ5XMw=="
@@ -139,6 +154,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Giovanni Ollivierre",
+      "collected": false,
       "secrets": [
         "9Cs6JHSjBvUQjkrl6qF+Xz6Op8YPwMyUaLOL8BXl+Gyua3c3NKkY60nZWfTs4i0IMZimhx2Hw552s9fxSeH1O/09YzIzrBD3TN5b9KLqJAlk16bLHt2bzzOl3vYf4+5O9TA4NWn3QIUygVP/+bp4QiKf7NgfiA==",
         "MHIUARmiwcW+hYuIEmH5A3JwYngc7Uwn3wUVrOgoqSRqMlkSWajf2+fSmJkUIqpUfWZjOQ6qQy3BBUmttCykczlkTRderdfH4tWamVoqo1UoKWN1DfAbfIQTQKriLr8GMWkWEAT2h7WcipKSAXr/Hm5hKWYMpQ=="
@@ -148,6 +164,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Javed Dowlat",
+      "collected": false,
       "secrets": [
         "yWfYzzWzQg==",
         "4/PC6CNZxQ=="
@@ -157,6 +174,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Javeed Ali",
+      "collected": false,
       "secrets": [
         "kgkpNdyWYeAUJr6+AwOlwsdYiHqVPLYgmye5gsVuik/ISWQmnJx//k1xra8FQPaVyE6JO4d7uSqFJ76Hz2uEH8pEcHPMySviS3L6/ksQopmZAYgmhyLjLpdr7oLKOZxgmws4IMvzD6MQa7upAA==",
         "3Cv68vqwqlklBHz7NtRvcA3/ZNybY4G9Rmg3BeBl3F6Ga7fhurq0R3xTb+owlzwnAullnYkkjrdYaDAA6mDSDoRmo7Tq7+BbelA4u37HaCtTpmSAiX3Us0okYAXvMspx1Snr5+3VxBohSXnsNQ=="
@@ -166,6 +184,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Jaydon Jointe",
+      "collected": false,
       "secrets": [
         "b/YohRlVGVvULa1GEHeHm7uDGjhx+jIF6UW4wxbIDeI1tmWWWV8HRY16vlcWNNTMtJUbeWO9PQ/3RenBFptQs2PjcZBSWVJZ3yvgDVg33Jaw2kliYOA0X+UJ7JMdwBvNZvs4mgQwfBvQIKxQW3WAkg==",
         "XeVggQTH4r6hnc7mlnsbxCAganbxrs1qRRiNwEdaWSUHpS2SRM38oPjK3feQOEiTLzZrN+PpwmBbGNzCRwkEdFHwOZRPy6m8qpuDrd47QMkreTks4LTLMElU2ZBMUk8KVOhwnhmih/6lkM/w3XkczQ=="
@@ -175,6 +194,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Jean Louis Brown",
+      "collected": false,
       "secrets": [
         "PFUt8tDtktWBwlQH14S1nvUzXTNC+1nFJ3yHtkun/R1mFWDhkOeMy9iVRxbRx+bJ+iVcclC8Vs85fNDiR6WmGjZHdLeS4N7X3ccRTZ/C5ZOtag5kBuIJnnJghuNF9OsyMUA33e+4yJOf/mMG3YG43+sjXg==",
         "dOnJqOKDc4YnL6w0Gq3DjFa55Ei2HcRuJ/vKdDb6qHQuqYS7ooltmH54vyUc7pDbWa/lCaRay2Q5+50gOvjzc377kO2gjj+EeyrpflLrk4EO4Lcf8gSUNXLnyyE4qb5befzTh93WKcA5E5s1EKjOzUip5w=="
@@ -184,6 +204,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Jelani Dash",
+      "collected": false,
       "secrets": [
         "YnB21enOpmJzUH8e4Dvq6xsZm6KnJwuL2ChIcW3aTiY4MDvGqcS4fCoHbA/meLm8FA+a47VgBIHGKEwjMt5EJTw9L5OvkexgLQNsDKh5ueJDQJyu5D0JgYIySXYxilgJb2hjy/OrzSxtWyQd4S8=",
         "VuxR1FsRtqkHaIHo1ZBgPA4eKwm0pXAeDUEwAor1o8kMrBzHGxuot14/kvnT0zNrAQgqSKbifxQTQTRQ1fGpygihCJIdTvyrWTuS+p3SMzVWRywF979yFFdbMQXWpbXmW/REykF03ecZY9rr1IQ="
@@ -193,15 +214,17 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Joash Ramlakhan",
+      "collected": false,
       "secrets": [
-        "oOAbtXXwom5Q3yZhQKGRQwyrtQauhpiBeNgfweRq/e36oFamNfq8cAmINXBG4sIUA720R7zBl4tm2BzAuGqgvfGnQvE38u5sXoxgJwi1xk1a8rZb68vPjCaVQ8LuOevCp/UcrVmY7CxR3Th6RL3cXAa5",
-        "ZJ+cq5Vy6xL0a0HWE9Ti4JD89okD6ZVv8/W5e1wpgvE+39G41Xj1DK08UscVl7G3n+r3yBGummXt9bp6ACnfoTXYxe/XcKcQ+jgHkFvAte7GpfXURqTCYq245XhWepTeY4qbs7kapVD1aV/NF8iv/5ru"
+        "oOAbtXXwom5Q3yZhQKGRQwyrtQauhpiBeNgfweRq/e36oFamNfq8cAmINXBG4sIUA720R7zBl4tm2B6U7miivv+iQvRiqOhsXtlnIwjjkxoD8uYJv57C3XPETsbpauvCp/UcrVmY7CxR3Th6RL3cXAa5",
+        "ZJ+cq5Vy6xL0a0HWE9Ti4JD89okD6ZVv8/W5e1wpgvE+39G41Xj1DK08UscVl7G3n+r3yBGummXt9bguVivdojvdxeqCKqEQ+m0AlFuW4LmfpaWGEvHPM/jp6HxRKZTeY4qbs7kapVD1aV/NF8iv/5ru"
       ]
     },
     {
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Joshua Ragoobarsingh",
+      "collected": false,
       "secrets": [
         "U5rVgXsS9A==",
         "WmJxughYWA=="
@@ -211,6 +234,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Jozara Carrington",
+      "collected": false,
       "secrets": [
         "rI+6Y8Ozuw==",
         "bEJ46dE1DA=="
@@ -220,6 +244,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Liev Khan",
+      "collected": false,
       "secrets": [
         "KWOI5RYMoAw/YQdLBH0LW9PIdCaW2C4XwoKEXp4aVERzI8X2Vga+EmY2FFoCPlgM3N51Z4SfIR3cgtANlhNdQnUg0fddVL8ONjZKXkw5XwDZkXUq0MUoG52b0lmfHkJtKHKKyi5e7k18chZe",
         "+hKfXEPvNwo/OjczEOBmMtCyrxaWkn6v6oYjJID9i/+gUtJPA+UpFGZtJCIWozVl36SuV4TVcaX0hnd3iPSC+aZRxk4ItygINm16JlikMmna664a0I94o7WfdSOB+Z3W+wOdc3u9eUt8KSYm"
@@ -229,6 +254,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Manasseh Mohammed",
+      "collected": false,
       "secrets": [
         "Sf4iQmPCGw=="
       ]
@@ -237,6 +263,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Myiesha Romain",
+      "collected": false,
       "secrets": [
         "huMdJ79qc7QVZ6WOlyCt1KjXdmx/oh6HmLltpYJgZfvco1A0/2Btqkwwtp+RY/6Dp8F3LW3lEY2GuTqh3WY//NryRDL4NDi2GzPkzt809oOnjnZhPLtE3MamO6KIZHPTl/4MJKQxA8kXabGUnHy+36A=",
         "yq/pWghy7jbcToRvpEXg7wG3ZACJqSuCmSJ6qiw8hyqQ76RJSHjwKIUZl36iBrO4DqFlQZvuJIiHIi2uczrdLZa+sE9PLKU00hrFL+xRu7gO7mQNyrBx2cc9LK0mOJEC27L4WRMpnkveQJB1rxnz5Ak="
@@ -246,6 +273,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Naveed Ali",
+      "collected": false,
       "secrets": [
         "Z0PBH/2exikaA+Tm6/EpzUgvPD9CHn+3HDa1NZBj4ZY9A4wMvZTYN0NU9/ftsnqaRzk9flBZcL0CNuYynzPpw2oOmA25lN0rEVCh9qO6fsERdm1iUAF44RMt5TDLMPe9bkHQCur7qGoeTuHx6A==",
         "3Cv68vqwqlklBHz7NtRvcA3/ZNybY4G9Rmg3BeBl3F6Ga7fhurq0R3xTb+owlzwnAullnYkkjrdYaGQC7zXUC9Fmo+C+urFbLlc5636fOHxUpjWBiXyG60lzZwC7Nsp11Snr5+3VxBohSXnsNQ=="
@@ -255,6 +283,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Neevash Boodoodass",
+      "collected": false,
       "secrets": [
         "wRRCBm92DE574rD4Fi+m0uMMo8CBrSXRqkTuAwI0cIObVA8VL3wSUCK1o+kQbPWF7BqigZPqKtu0ROhUDWZ/1Z5TG0QkKRtMc7mkuF5u8Iq7VaWazbQg2qEKugcIYWaozAVAF28kfCN57qHkHDmkzv5WtsqT",
         "25yQpgRG66mGh79HHiNeC1tt7wd+tK4ehMfX/RVHAGqB3N21REz1t9/QrFYYYA1cVHvuRmzzoRSax9GqGhUPPITbyeRPGfyrjtyrB1ZiCFMDNOldMq2rFY+Jg/kfEhZB1o2StwQUm8SEi65bFDVcF0Y3+g1s"
@@ -264,6 +293,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Nehemyah Grandison",
+      "collected": false,
       "secrets": [
         "ZHAq/hMAwzQVY3CfNZ2tiApgnfI/RDHJzLhffxyO8Mc+MGftUwrdKkw0Y44z3v7fBXacsy0DPsPSuA18QImolm00c7hRDN82QTk3233Z+NUHOc+qKV8zx5n2DC9E2ebsaWw74xlbhEQ/cmSCNIa9iAo6iPgt",
         "AYVGe3RfG1ClX0e9vzviAUlsonPolYkULL39m/jAYuBbxQtoNFUFTvwIVKy5eLFWRnqjMvrShh4yva+YpMc6sQjBHz02UwdS8QUA+fd/t1xENfAr/o6LGnnzrsugl3TLDJlXZn4EXCCPTlOgviDyAUk2t3n6"
@@ -273,6 +303,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Owen Surjan",
+      "collected": false,
       "secrets": [
         "+OUT5IC35g==",
         "bpwaBQuwmA=="
@@ -282,6 +313,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Roel Rattan",
+      "collected": false,
       "secrets": [
         "k/01pkqSudCGfaHjk6WZrysmiDjeNLb3qckfB0Y1EDLJvXi1Cpinzt8qsvKV5sr4JDCJecxzuf23yUtQHWAdbsO9bOEMna/S2CjgptvvmPUmf9owmSKzrqDfSwRNMgYFlOwtiWvJ4ouKcPrgkrE=",
         "qWG8Bo4oCMK+Qqx2VEv5zLuHmdNUCccCm49PBNHlbJDzIfEVziIW3OcVv2dSCKqbtJGYkkZOyAiFjxtTirBhzPkh5UHIJx7A4BftMxwB+Ja23svbEx/CW5KZGwfa4nqnrnCkKa9zU5myT/d1VV8="
@@ -291,6 +323,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Ronaldo Lewis",
+      "collected": false,
       "secrets": [
         "0DsPBU4mRFBgZjxoy5b2FzErwW1lZht3q1KHWCd8BzKKe0IWDixaTjkxL3nN1aVAPj3ALHchFH21UtEMLSkKNYt5VhENLVJSbDZwLYOHoUBpcsdmcikaK/AZ1l8tfhEF1yEaGVlzNDNociBogJTxHg=="
       ]
@@ -299,6 +332,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Satyavaan Adalath",
+      "collected": false,
       "secrets": [
         "6sHNJQaOgLsp8lrk8LXFMtIvVDTS0GgSkDm+ueBJNiKwgYA2RoSepXClSfX29pZl3TlVdcCXZxiOObm46x05druFlGcX1pq5c6AboLihlW+IdgBtxZwyHs107bq7SyAU48HANAPVzvob0Ev2+abSNZIrVTw=",
         "GC/MRUkO/G1VkCtzze4zrIomVGELWf5j3AGr2DA960JCb4FWCQTicwzHOGLLrWD7hTBVIBke8WnCAazZO2nkFklrlQdYVuZvD8JqN4X6Y/HQfwA4HBWkb4FM+NtrP/10ES/BVExVsixnsjphxP0kq8oiVWk="
@@ -308,6 +342,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Satyavati Adalath",
+      "collected": false,
       "secrets": [
         "IaXpDvC+JeJBU+Ym70hPgirNCZGPRTFIkan3oK7o3YJ75aQdsLQ7/BgE9TfpCxzVJdsI0J0CPkKPqfan9evShHHhsBjh4WvgG1KgbadZTo8hlF+czVwxRpm0oKDzvMu0KKXkH/XlfqRzcfc05ltYhWrJCJk=",
         "GC/MRUkO/G1VkCtzze4zrIomVGELWf5j3AGr2DA960JCb4FWCQTicwzHOGLLrWD7hTBVIBke8WnCAarfaz7kREhrlVNYUbJvD5FtOIX/MqGBfwJsSUD+bdQc/Nhtaf10ES/BVExVpytnsjphxP0kq8oiVWk="
@@ -317,6 +352,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Seth Leladharsingh",
+      "collected": false,
       "secrets": [
         "IuALQGVQyb5kpRx04vV/5wVJR1BlbJc/ySbmhSJq57d4oEZTJVrXoD3yD2XktiywCl9GEXcrmDXXJrvWLWzpsC6gUlQnWIC8PPEIZKq3KrsOEBoJJHPBaZJqtIN6bPGBL+AXb1oPivBtrgh19O5y7wMTUlp3",
         "9HlcNi3kOHrpdmcEpg+v17c1R6BWRAEW3Z5pMrAiIxiuORElbe4mZLAhdBWgTPyAuCNG4UQDDhzDnjRhvyQtH/g5BSJv7HF4sSJzFO5N+ou8bBr5F1tXQIbSOzToJDUu+XlAGRK7ezTgfXMFsBSi37FvUqpE"
@@ -326,15 +362,17 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Sheronne Richardson",
+      "collected": false,
       "secrets": [
-        "G+lpTKC5Y0mpMLf48g0FpfwAixgVE/h7LpRcVd5qhx5BqSRf4LN9V/BnpOn0Tlby8xaKWQdU93EwlAAH1W+OHUOsMAm15XxL8mSmuboaV/qkWd5HWVn4cHDfWgKBaZEoG/hvU73tKTmWOqHj9g0Cuf0awAYFWw==",
-        "7JBOAxi6m2LUhL78KKlLief9otWmWLTJLk5mhtm5Taq20AMQWLCFfI3Tre0u6hje6OujlLQfu8MwTjrU0rxEqbTVF0YN5oRgj9CvvWC+Gda/pPeK6hK0wnAFYNGGuluc7IFIHAXu0RLrjqjnLKlMlebn6cu2EA=="
+        "G+lpTKC5Y0mpMLf48g0FpfwAixgVE/h7LpRcVd5qhx5BqSRf4LN9V/BnpOn0Tlby8xaKWQdU93EwlFxagTnaHRD4MF7rti9L8WCms7pHV/KlWddPAg6vJCWOWlDRbpEoG/hvU73tKTmWOqHj9g0Cuf0awAYFWw==",
+        "7JBOAxi6m2LUhL78KKlLief9otWmWLTJLk5mhtm5Taq20AMQWLCFfI3Tre0u6hje6OujlLQfu8MwTmaJhuoQqeeBFxFTtddgjNSvt2DjGd6+pP6CsUXjliVUYIPWvVuc7IFIHAXu0RLrjqjnLKlMlebn6cu2EA=="
       ]
     },
     {
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Stephen Maharaj",
+      "collected": false,
       "secrets": [
         "/YCSwsOgoevU1CNvJlefC/qmObp9f2cfBTzbf7CWlUunwN/Rg6q/9Y2DMH4gFMxc9bA4+284aBUbPIp+u8SZTaHFy9OCq+rpjI5kKW4Unlbw/2znOWgyFFwhiHu/kIN94ZGW2tX00YnY3zduIk/SFPC0",
         "nszBzi3K1qxKvxFFmrL6/qqhxboIF4kKHTzcvCKr90fEjIzdbcDIshPoAlSc8amppbfE+xpQhgADPI29Kfn7QcKJmN9swZ2uEuVWA9Lx+6Og+JDnTADcAUQhj7gtreFxgt3F1jueps5GtAVEnqq34aCz"
@@ -344,6 +382,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Tishana Athanas",
+      "collected": false,
       "secrets": [
         "6Ih+e+lhHw==",
         "XUhc0rFmVw=="
@@ -353,6 +392,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Tristan Mahabir",
+      "collected": false,
       "secrets": [
         "JldyLw9NHw==",
         "DZf4DTy2cw=="
@@ -362,6 +402,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Xane Harry",
+      "collected": false,
       "secrets": [
         "UVWplgr7BLEm/1SfFYaIZzlQs0ag72fXm7vdIlLgu+kLFeSFSvEar3+oR44TxdswNkayB7KoaN2Fu4AiDeHnvV8Y8NAd8xuzKawU213GjTxhCe4dsfBni8bxgSNT5a3UWE+4uTGgWewyslGIFg==",
         "CI4m/K7kF38KPTmHuFHRa4/MbC35s9ZybGvePTC5UA9Szmvv7u4JYVNqKpa+EoI8gNptbOv02Xhya4M9b7gMWwbDf7q57Ah9BW55w/AR1DDXlTF26KzWLjEhgjwxvEYyAZQ305W/SiIecDyQuw=="
@@ -371,6 +412,7 @@
       "year": 2026,
       "camp": "AI Builders Boot Camp 2026",
       "name": "Zara Jagroop",
+      "collected": false,
       "secrets": [
         "9EffZRNosNocmjJFpaIm/ap3rIzrKamz1NosXcB6FK2uB5J2U2KuxEXNIVSj4XWqpWGtzfluprnK2n9TwXlJrv8FhiFZYafYEpglB+3lffHxLv6ErD+s6t3MeF7LfQKS/UHKSioz+IceljcYsLQj",
         "BBf5Tgw1x+F2sfDTedI3U0tJeUaXs8cEr5CLC5a/y4xeV7RdTD/Z/y/m48J/kWQERF94B4X0yA6xkNgFl7yWjw9VoApGPNDjeLPnkTGVbF8QECtO0KXCXaaG3widuN2zDRHsYTVuj7x0vfWObMQy"
@@ -380,6 +422,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Adam Ali",
+      "collected": false,
       "secrets": [
         "U6Xq3ogRGQoVXZ8QsX0fWy+3p/YxwF9BcXD9kGM+hAsJ5afNyBsHFEwKjAG3PkwMIKGmtyOHUEtvcK+RYzqNDw7ls5fKGQYIGl/cVfk5SFd27vWtcNpYFnls+5RoPJIseOOunM50RkQfW5k85SEMUCc=",
         "opnfzPxNtnAjWP5QiFv+nddtlyRm5qPWcpRqNKkVU4v42ZLfvEeobnoP7UGOGK3K2HuWZXShrNxslDg1qRFaj//ZhoW+RalyLFq9FcAfqZGONMV/J/ykgXqIbDCiF0Wsid+bjroo6T4pXvh83Aftlt8="
@@ -389,6 +432,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Adita Dhoray",
+      "collected": false,
       "secrets": [
         "NBCcszxGRHsqQMqzFWMRT69d8zHJ4PC6KgwEZqbDMbFuUNGgfExaZXMX2aITIEIYoEvycNun/7A0DAU1p5E4tmpQxfotTQh5d0Hc+F0nRxD0BKJq3K325CQTB2KnxyeWH1bY8XojGzUgRsyfQj8CRKc="
       ]
@@ -397,6 +441,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Alexi Doodnath",
+      "collected": false,
       "secrets": [
         "idL0oDdCDA==",
         "iAeOacw8uQ=="
@@ -406,6 +451,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Amani Legen",
+      "collected": false,
       "secrets": [
         "JQtJyC1rPzwWh8/rUNWc5Vc/oYJ3Ct0vJEG3TiBaod9/SwTbbWEhIk/Q3PpWls+yWCmgw2VN0iU6QeIcelr7gygeEItoMCk+QobZ+hiXnLILZvzYYheKIXwN4xx7Xrf4Dk0NimsOYHIcgcnHBomP7l8=",
         "5LiRzNAKJChdrnTTNUMuBqKEyCKXgkXM28IxKAYTeH6++NzfkAA6NgT5Z8IzAH1RrZLJY4XFSsbFwmR6XBMiIumtyI+VUTIqCa9iwn0BLlH+3ZV4gp8SwoOOZXpdF25Zz/7VjpZve2ZXqHL/Yx89Dao="
@@ -415,6 +461,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Arjun Singh",
+      "collected": false,
       "secrets": [
         "5SU/gTA45uIG/DHPN9Bk70hjqGwWyl7mOlCLvyTCtXm/ZXKScDL4/F+rIt4xkze4R3WpLQSNUewkUNe4JJG9fr8wZsd1OvvgDalyjH/DZeYfOqs6A9UM72Ua3bsowaNezmN7w3ZduawM+jfjZox35EA=",
         "Y6AsnZjnADbsYs0qiKJ2HhE54u0Av2HNwvBE/n6MkAY54GGO2O0eKLU13juO4SVJHi/jrBL4bsfc8Bj5ft+YATm1ddvd5R005zeOacCxdxdGYOG7FaAzxJ26Evpyj4YhSOZo396CX3jmZMsG2f5lFRk="
@@ -424,6 +471,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Avesh Ragoonath",
+      "collected": false,
       "secrets": [
         "nA515/sJMMxXKatKZuTXzVNnJdbaMgQrkHyD3Ef0aJjGTjj0uwMu0g5+uFtgp4SaXHEkl8h1CyGOfISLHPY3zJYYLKO6ACzODHu/XC6uhMEFPnHbnS1VJZlg0tJL/H6/t0gxpb1sb4JdL61mNrjExls=",
         "aoI+sfCSYV5P8BYchsWYeXgo/lQRHfhgWPuzEitpzSkwwnOisJh/QBanBQ2Ahssudz7/FQNa92pG+7RFcGuSfWCUZ/Wxm31cFKICCs6Py3UucapZVgKpblHn4hwnYdsOQcR687b3PhBF9hAw1pmLcnA="
@@ -433,6 +481,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Chioke Sobers",
+      "collected": false,
       "secrets": [
         "WlUK0QegpA==",
         "xA+aEuyYHw=="
@@ -442,6 +491,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Christian Seeraj",
+      "collected": false,
       "secrets": [
         "ijHrlNS8rlbThCNh7UetYT/LzwLzGZCuowrSKORc+dnQcaaHlLawSIrTMHDrBP42MN3OQ+Fen6S9CtQu7VXw2NFwstPBsrZUit8yJqVX/D1jkpxV4QTKpPxA1Xi+C+/+oXev1pLZ8RjZgiVNvhu+ajc=",
         "llREYmqa12efYnJXVBiRWfguTizZLXSvwKwIED64ijzMFAlxKpDJecY1YUZSW8IO9zhPbctqe6XerA4WN7GDPc0VHSV/lM9lxjljEBwIwAWkdx17yzAupZ/mD0Bk75wbvRIAICz/iCmVZHR7B0SCUvA="
@@ -451,6 +501,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Dante Hajaree",
+      "collected": false,
       "secrets": [
         "bBr0WTppO/yCqaDiHwC5NIIcaRrmXgAYiIhCFXtGb2w2WrlKemMl4tv+s/MZQ+pjjQpoW/QZDxKWiBIVJ0VuPDBcrR1/YnD+jv7i8lcU6TrYRTsXq0RbE9LDE0J3RHlLR1ywG3wMZLKIr6bOTVyqP4o=",
         "b4C6KJRMlsFtAlmRC6QalQSBdx5B4D5RFB4mmldba5s1wPc71EaI3zRVSoAN50nCC5d2X1OnMVsKHnaaC1hqyzPG42zRR93DYVUbgUOwSpte2CUTDPplWk5Vd81bWX28RMb+atIpyY9nBF+9WfgJngw="
@@ -460,6 +511,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Darion Paynter",
+      "collected": false,
       "secrets": [
         "yyW57e4p4A==",
         "Mm3xGFT6XA=="
@@ -469,6 +521,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Devesh Maharaj",
+      "collected": false,
       "secrets": [
         "jbTaYgkf4Q==",
         "q7qXdb9a7g=="
@@ -478,6 +531,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Dishon Dempster",
+      "collected": false,
       "secrets": [
         "YkNDwwV78Py/fFDC6owswF5iJaNE4k2ENVPgIn2xhMI4Aw7QRXHu4uYrQ9Psz3+XUXQk4lalQo4rU7MtcuXblTwCGtJPI7n+titHhaKceJ0HOyT4U6oWjj5OvCR1tJLlSQUHgUMer7K1elbut9A/y1Y=",
         "crnmpRqELZfyT6/L9iVO5VJ/OgmbzY2NOkkShcxjkrUo+au2Wo4ziasYvNrwZh2yXWk7SImKgockSUGKwzfN4iz4v7RQ3GSV+xi4jL41GrgLJjtSjIXWhzFUToPEZoSSWf+i51zhctn4Sannq3ld7lo="
@@ -487,6 +541,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Evan Maharaj",
+      "collected": false,
       "secrets": [
         "73NAkJJW9SLSfmdw3tfT52Y6x+rZDgyTa0ZSa7B1LBO1Mw2D0lzrPIspdGHYlICwaSzGq8tJA5l1RgY8uXBwRbQ2GYLTCOIg2iUlN5aW0+tuY8O0y0IKxTRbBD6wJTo0xDUE0tQzqmzYeGFcgovA7G4=",
         "MHnjIEJJLoH0q/YqC5lo4y2dc8QOSrnVjRl+8CMu0fRqOa4zAkMwn6385TsN2ju0IotyhRwNtt+TGSqnKiuNoms8ujIDFzmD/PC0bUPYaO8lxHeaHAa/g9IEKKUjfsfTGz+nYgQscc/+rfAGV8V76CU="
@@ -496,6 +551,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Giovanni Ollivierre",
+      "collected": false,
       "secrets": [
         "7DogMG73Tg==",
         "KGMOFQP2iQ=="
@@ -505,6 +561,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Isabella Ackbarali",
+      "collected": false,
       "secrets": [
         "67KE4ngamrH/F1SN04Spk6uVPTtVtA19XlOprfhZmqyx8snxOBCEr6ZAR5zVx/rEpIM8ekfzAndAU/z4+Via+7Hy3aU8FIOz8EcVnJuQ/5n0zGFkE/5dKlFEr6vyCYyLwPTAoD5/xf/1EVKhh8bkjKGH",
         "E3le+T4rPVwoclrKR066QiClj6u/WeqpRzW+j5nEZqZJORPqfiEjQnElSdtBDekVL7OO6q0e5aNZNevamMVm8Uk5B756JSReJyIb2w9a7Eh//NP0+RO6/kgiuImTlHCBOD8au3hOYhIidFzmEwz3XSq3"
@@ -514,6 +571,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Isharra Sookdeo",
+      "collected": false,
       "secrets": [
         "lp7o+3ZDSg==",
         "CNpchWetqA=="
@@ -523,6 +581,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Israel Mayr",
+      "collected": false,
       "secrets": [
         "dxcw/Urf+KOnaQOB/bjK2V5ODdaWGy5cysAovBEROvAtV33uCtXmvf4+EJD7+5mOUVgMl4RcIVbUwCu+SUE79HoBaewK1rOhqGlGwbX8mYIEF1GJ0gR9AJ6JLO5LESzXXFF0vwy6p+2tbwWtqfuHxlRc",
         "mWyd1R9y1D084R5ZF2NwWdef5eKEiY7Mq/HM/JnuRLzDLNDGX3jKI2W2DUgRICMO2Inko5bOgca18c/+wb5FuJR6xMRfe58/M+FbGV8nIwKNxrm9wJbdkP+4yK7D7lKbsirZl1kXi3M25xh1QyA9Rt2N"
@@ -532,6 +591,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Javen Williams",
+      "collected": false,
       "secrets": [
         "wTXO5D9gEsG0HCMdFV0bMmMJ8LVGRJDed9VwHR9vBLabdYP3f2oM3+1LMAwTHkhlbB/x9FQDn9Rp1SIfHmwM4Zsnl60uaA7DuE9mDV0cT209UKTtVFvDgXmeJU0VbhKR6nOKpnkFTY++GiUxQR1WLWkb",
         "qRN4JukU+Cn9EDTH+X1ieiMDku2HU7VCnrM1HGLF6sjzUzU1qR7mN6RHJ9b/PjEtLBWTrJUUukiAs2ceY8bin/MBIW/4HOQr8UNx17E8NiV9Wsa1lUzmHZD4YExoxPzvglU8ZK9xp2f3FjLrrT0vZSkR"
@@ -541,6 +601,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Jayden Che Gordon Toylor",
+      "collected": false,
       "secrets": [
         "S19YdybUrMGAqOIGUeBcheLJ2DviY0fTsg1UtG5SQaARHxVkZt6y39n/8RdXow/S7d/ZevAkSNmsDVC0ZgdJoBdKAWJn3LTDiaijFhmnDom1kIRh83tC2b0QB7tiWleHYBkcNWCx84+KruQqBaERmujb",
         "ph1FL+du4KoZW0BW1yebMA68CcXbtJrTOdJZTndPzaX8XQg8p2T+tEAMU0fRZMhnAaoIhMnzldkn0l1OfxrFpfoIHDqmZvioEFsBRp9gyTxZ5VWfyqyf2TbPCkF7R9uCjVsBbaELv+QTXUZ6g2bWLwSu"
@@ -550,6 +611,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Jelani Williams",
+      "collected": false,
       "secrets": [
         "d6eXMOgvSC1quxWlBL15Tw0ruLjNPcbRl5CXbUYYXMUt59ojqCVWMzPsBrQC/ioYAj25+d96yduJkJE9SEwGwyi1ziT+dAIvYb5W5kysK0UCcunli3DBicrekDhGGEriXOHTcq5KF2NgvROJUPs0UAc5",
         "qRN4JukU+Cn9EDTH+X1ieiMDku2HU7VCnrM1HGLF6sjzUzU1qR7mN6RHJ9b/PjEtLBWTrJUUukiAszNMbJGwzvYBITL/T7Ir9hV3hLFsMHAsWsOwwR6yGsP9MklixfzvglU8ZK9xp2f3FjLrrTsvZSkR"
@@ -559,6 +621,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Jerell Alexis",
+      "collected": false,
       "secrets": [
         "MQw2mdfHGS3RkeOUge12+2CbSZkG8gn04OEiaBIGp9FrTHuKl80HM4jG8IWHriWsb41I2BS1Bv7+4SE6HAWt0mhIb9vHmwUv2Zb30cmocKU4whzOFrhaquj7dGxOD7H2Gkpy25GiRmPbl+W41ao75GqJ",
         "J81CYDySrv0xMSPKvVkfu2yI40Lavfab6SC1PfmFtWt9jQ9zfJiw42hmMNu7GkzsY57iA8j6+ZH3ILZv94a/aH6JGyIszrL/OTY3j/UcGeU00bYVyvelxeE64zmljKNMDIsGInr38bM7NyXm6R5SpGaa"
@@ -568,6 +631,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Jhelani Peters",
+      "collected": false,
       "secrets": [
         "u8dZB2HXoQ==",
         "amQGe91/9A=="
@@ -577,6 +641,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Jivanan Deopersad",
+      "collected": false,
       "secrets": [
         "aoJID3+5O9sGJDVj3pCJKPYDznVNmOhFzsEvs4iq/RUwwgUcP7MlxV9zJnLY09p/+RXPNF/f50/QwS6ziKn1EjCXEUo9uyPZWX8iIJba2yauWs8sDtLqH8bXK+SErOsyQcQMTTncZJUMIjNPitTEN/wR",
         "LgXgYGT+7/Pet9gx/sS2BQxLq0uBHx/oRNSrEi6JJgp0Ra1zJPTx7YfgyyD4h+VSA12qCpNYEOJa1KoSLoouDXQQuSUm/PfxgezPcraO5AtUEqoSwlUdskzCr0UijzAtBUOkIiKbsL3Usd4dqoD7GgZZ"
@@ -586,6 +651,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Joshua E Francis",
+      "collected": false,
       "secrets": [
         "2uZLiiWGaM7mMrIEB+MN15lMzbyXUIzqtdgGv38N7aOApgaZZYx20L9loRUBoF6AllrM/YUXg+Cr2AfrcQrl9oqlEsk03nPMszX3QU/0DYjCFc6w2k7c4OzGVut3DPuE8aAPyGPjN4DsNLQoU6ZAyJNe",
         "H61S294G4oIFW9yNW7LYvuNkUy9TA2zWdw1rwFofifRF7R/Ingz8nFwMz5xd8Yvp7HJSbkFEY9xpDWqUVBiBoU/uC5jPXvmAUFyZyBOl2OG4PVAjHh083C4TO5RSHp/TNOsWmZhjvcwPXdqhD/eVoel2"
@@ -595,6 +661,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Joshua J Francis",
+      "collected": false,
       "secrets": [
         "Usi3EOCJmB6BOnn7IG64tSAgBtpIU9hy1HRM3mnm2wwIiPoDoIOGANhtauomLeviLzYHm1oU13jKdBCKZuPbWQOP7gHx1tYcjm5t62glubh/eQCMWk2LfItjHdlg4M0reY7zUqbsx1CLPH/XdCT1qioy",
         "9PqMjQbKHXfeAYzRYCpitbc7LKSirty/BOxfn6kwuiWuusGeRsADaYdWn8BmaTHiuC0t5bDp07Ua7APLpjW6cKW91ZwXlVN10VWYwShhY7joYirysLCPsVv7DpigNqwC37zIz0CvQjnUB4r9NGAvqr0p"
@@ -604,6 +671,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Jozara Carrington",
+      "collected": false,
       "secrets": [
         "tJ6gd9nn8yzXDT8xLc5rPfRKH9GnChnIY5l15tJYQ4Xu3u1kme3tMo5aLCArjThq+1wekLVNFsJ9mSLl0llP2b7f+THL7OsujwtzdmWNOWT7E0nbth1MxT7SKeOOWFWin9jkNZ+CrGLdCzkdeYUmIv5Y",
         "MyW2MdgXxOwB0vofvATh6RMXJN1N3JLpAunO4jc8rbZpZfsimB3a8liF6Q66R7K+HAElnF+bneMc6ZnhNz2h6jlk73fKHNzuWdS2WPRHs7AcTnLXXMvH5F+ikudrPLuRGGPyc55ym6IL1Pwz6E+s9hkF"
@@ -613,6 +681,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Kavel Lalla",
+      "collected": false,
       "secrets": [
         "UqTxa5xafVxBvgIdUXQmeMEkJkhX5hZGmPhYrmtKl5gI5Lx43FBjQhjpEQxXN3UvzjInCUWhGUyG+AupZU/LyAy1qH6OAmFeTbkUChljJiHKfXEeG/lBEMHvCqxnH4G/eeK1Kdo/IhJLuAQxBjZrZ8s2",
         "ZzQyDTxWhfvDJpKCzDsTi+aoJkQr4UFdt+lSyvYR+yM9dH8efFyb5ZpxgZPKeEDc6b4nBTmmTlep6QHN+BSnczklaxguDpn5zyGElYQsE9Lt8XESZ/4WC+7+AMj6RO0ETHJ2T3oz2rXJIJSum3lelOy6"
@@ -622,6 +691,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Kaya Paul",
+      "collected": false,
       "secrets": [
         "+vxATrx6KSQYYE7TxL//VrgZOTmjpbNM8/AZBxZomCagvA1d/HA3OkE3XcLC/KwBtw84eLHivEbt8BlTGGvAJvG7GVv+I2cmRTsDw4z/pQnhQG1g7+7iEP++TVcWYI4B0boEDPofdmoSZkj/k/yySbIL",
         "SKgd7In7ByXxFGjhekBJqI1DBbQioDieW/FOrHQueMAS6FD/yfEZO6hDe/B8Axr/glUE9TDnN5RF8U74ei0gwEPvRPnLokknrE8l8TIAE/fUGlHtbutpwle/Gvx0Jm7nY+5Zrs+eWGv7Em7NLQMEt4dR"
@@ -631,6 +701,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Kaylon Blackman",
+      "collected": false,
       "secrets": [
         "mEwJIpoAmY8MrxavRKDCLzhPE1EmWyYrrb8yrlzmjFnCDEQx2gqHkVX4Bb5C45F4N1kSEDQcKSGzv27+VOaCBZVbUDSMCdONUa1SvgywxCNiFkMNNhF8IaXyY61U45p+swpNYNxlxsEGqRCDE+CPMDJd",
         "F89VBHiKabGeItfKQr1St+hk/E6TjJ144jJglL+BG5BNjxgXOIB3r8d1xNtE/gHg53L9D4HLknL8MjzEt4EVzBrYDBJugyOzwyCT2wqtVLuyPawSg8bHcup/MZe3hA23PIkRRj7vNv+UJNHmFf0fqOJ2"
@@ -640,6 +711,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Keyan Goodridge",
+      "collected": false,
       "secrets": [
         "nlEUQlKSgTrNErPc4n3JC7O9hSlPw6l2Yh9gyzSWuuPEEVlREpifJJRFoM3kPppcvKuEaF2Epnx8H2PFaZ+14sBHTQtFy5w4lUCklqppnVS85IEkDtysej0HYcRsk6zEtRdQABT33nTHFLXwtTyEFLmv"
       ]
@@ -648,6 +720,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Khasib Wells",
+      "collected": false,
       "secrets": [
         "zTT2GRXR+w==",
         "1Y31aImlzA=="
@@ -657,6 +730,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Liev Kham",
+      "collected": false,
       "secrets": [
         "MXKS8QxY6A==",
         "4gOFSFm7fw=="
@@ -666,6 +740,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Makhai Diaz",
+      "collected": false,
       "secrets": [
         "7vu6eAm5HJPllh7OVW4ZUUu0K51cT/B8Zj4BaKpFMCS0u/drSbMCjbzBDd9TLUoGRKIq3E4I/3Z4PlBupxA9I+Dt42lI4lWR6sIKiR0rGw8U7XeXHASkdzomVjumRCYDxb3+Ok/cQ93vkBjiAihUTkGm",
         "0wtucYP8iq4AnuEcUY8uNlordR1BfflvwaT8zY3sOYKJSyNiw/aUsFnJ8g1XzH1hVT10XFM69mXfpK3LgLk0hd0dN2DCp8OsD8r1WxnKLGgFcikXATatZJ28q56B7S+l+E0qM8WZ1eAKmOcwBsljKVA5"
@@ -675,6 +750,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Malique Jones Davis",
+      "collected": false,
       "secrets": [
         "FiNF8NttbQ==",
         "6GCSxpZP1Q=="
@@ -684,6 +760,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Manasseh Mohammed",
+      "collected": false,
       "secrets": [
         "sSLktizbyQ==",
         "Sf4iQmPCGw=="
@@ -693,6 +770,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Marlon Lewis",
+      "collected": false,
       "secrets": [
         "Xa8sJvk2AZRV3kOjp3LWQ8rMEJmPNL/IYDg+z0n/dEoH72E1uTwfigyJULKhMYUUxdoR2J1zsMJ+OD3JQ/Z6Tle9dWbvbRaWDt9Q5+8y1BrAlRPEzyLun2sgb5xD9mJtduloZL9TXtpf2EWP8DWbXMDe",
         "yBtc1qVPmpDDwZn5zLK//574cMcEOlMhnTq5A0WExJySWxHF5UWEjpqWiujK8eyoke5xhhZ9XCuDOroFT43KmMIJBZazFI2SmMCKvYTyvaaUoXOaRCwCdpYi6FBPjdK7410YlOMqxd7Jx5/Vm/Xy4JTq"
@@ -702,6 +780,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Micah Ephraim",
+      "collected": false,
       "secrets": [
         "v+S3+wNZUg==",
         "F1VoS0b8vw=="
@@ -711,6 +790,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Michael Emmanuel",
+      "collected": false,
       "secrets": [
         "aO8+aRHj+4lNXe8muQOLwh2If/V7LPo8jNm+OSSlyyoyr3N6UenllxQK/De/QNiVEp5+tGlr9TaS2bptf/DEeWWrZ3tW6uyLRgytM/FFjZsQ0S+sOzStY4KQv2kord0NQ6l6K1eGpMdHW+kK7kfG3Rea",
         "f4L3wEu9A5pA0jCwZYGRQR70jnuQtJqpZjHhz2CAswYlwrrTC7cdhBmFI6FjwsIWEeKPOoLzlaN4MeWbO9W8VXLGrtIMtBSYS4NypS3HlxgTrd4i0KzN9mh44J9siKUhVMSzgg3YXNRK1DacMsXcXhTm"
@@ -720,6 +800,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Mikhai Martineaux",
+      "collected": false,
       "secrets": [
         "EjU6+R4gIsDdnkWt4xItQf7TSzALVzTE3m4GSa9GjkRIdXfqXio83oTJVrzlUX4W8cVKcRkQO87Ablob90/TFkl2Y7FULTXC0chR6qtXeReoikhrT0pkyYBzVxvwFZhjOXN+u1hFfY7XmEOBtFdgXvTB",
         "H56PBa0+XIoXRfbfodDancjgJBnCDNF0fAfek15psShF3sIW7TRClE4S5c6nk4nKx/YlWNBL3n5iB4LBBmDsekTd1k3nM0uIGxPimOmVjsueuSdChhGBeSIaj8EBOqcPNNjLR+tbA8QdQ/Dz9pWXgsLy"
@@ -729,6 +810,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Mlinzi Chevalier",
+      "collected": false,
       "secrets": [
         "I3+iOwSm6w==",
         "fWXSO7d60Q=="
@@ -738,6 +820,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Nevan Seeparsan",
+      "collected": false,
       "secrets": [
         "tRNXAep+ExRhD416BYyMSSb329HqquQKchssBO60ocPvUxoSqnQNCjhYnmsDz98eKeHakPjt6wBsG3wCteetlblXDhSqcwoWOlrNOU2d2kJ4roaH/+C3UScMeVGysLfknlUTQ6wbTFprCYtWUsbBVizl",
         "DB5Ubnbv68yK8nXI38QroKEqMUeyb4mb8Qg7mVSq6WxWXhl9NuX10tOlZtnZh3j3rjwwBqAohpHvCGufD/nlOgBaDXs24vLO0ac1i5fVfav/c2wRpyXawKQfbswIrv9LJ1gQLDCKtIKA9HPkiI5mv6s4"
@@ -747,6 +830,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Omanan Deopersad",
+      "collected": false,
       "secrets": [
         "NLzD9JPh9cN5FdPd/tsZubBV8t3kAddnYQo7u6SHgaxu/I7n0+vr3SBCwMz4mEruv0PznPZG2G1/Cmru+NTe+27wmrTZ6uvBI0fFnLaeSuO7DKaAokyHODhAPbX+jpeLH/qHttWEqo1zE9XxqZBUprpH",
         "LgXgYGT+7/Pet9gx/sS2BQxLq0uBHx/oRNSrEi6JJgp0Ra1zJPTx7YfgyyD4h+VSA12qCpNYEOJa1PpHctp5XXRJuSAu9fHxhOXOcLaB5V8HEv8Wx1JPtx2erRx0gDAtBUOkIiKbsL3Usd4dqY/7GgZZ"
@@ -756,6 +840,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Omari Bruce",
+      "collected": false,
       "secrets": [
         "NbPlvRWnn0etM8eurFByKgQU19DlUwIhiPGFZkRdaehv86iuVa2BWfRk1L+qEyF9CwLWkfcUDSuW8YYxHlw06T+kvP5S+9NF8GSE6OQaIHFbTYWJqUoCe9zq0zFFVX/PHvWh/1PCwAmnNcGC+hI/NQ4G",
         "eUkicAxfonuJEbxg0J6RcO21zr9a5fXHGj0rci/LOAUjCW9jTFW8ZdBGr3HW3cIn4qPP/kii+s0EPSgldcplBHNeezNLA+551Eb/JpjUwyuy7JzmFvz1nU4mfSUuwy4iUg9mMko6/TWDF7pMhtzcb+en"
@@ -765,6 +850,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Samara Khan",
+      "collected": false,
       "secrets": [
         "dujD70Hp6qcWZ4GjVB1a3TFnVsWxSc5pTAEGnv7ur+AsqI78AeP0uU8wkrJSXgmKPnFXhKMOwWNSAVTJ8u+ktyv9mv1RsvKlTTTFtRwKC4Y8PlCeo1PLPkIeAsv+6rnHXa6HrQeMtekcYYePAl4Xwjt1"
       ]
@@ -773,6 +859,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Sarah Maharaj",
+      "collected": false,
       "secrets": [
         "KIwzTGyN5dPfvv6ShkVYHk72Wq04RLWe2yHqkGlEi0ByzH5fLIf7zYbp7YOABgtJQeBb7CoDupTFIeufNhbTESPNagsph/rR0b661s4BDEFDrw+meVjiwtc3v8JiRp1nA8p3Diroup3VuPi+0AUVAUTk",
         "+PTix+cw96fWnwU1gZxbM/3lVFHVbQh79UxF23ofxzmitK/UpzrpuY/IFiSH3whk8vNVEMcqB3HrTETUJU2faPO1u4CiOuil2J9BccnYD2zwvAFalHFfJ/laEIlxHdEe07KmhaFVqOncmQMZ19wWLPf3"
@@ -782,6 +869,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Shazira Ally",
+      "collected": false,
       "secrets": [
         "gSvSrvvRw6P4RaFZ0lw4ESIJ2uZ2rZIZJLni+lXE50vba5+9u9vdvaESskjUH2tGLR/bp2TqnRM6ubT7WZPsTNBni+bujtqh9BfnTppNPkYvUNq+NbfAQSigv69elPFsqm2W7L20nO3yQ6d1hB11Digb",
         "r3QHieTZ8/deAEgiG7+jXRvYmnG8/sizmDA+M/zf9rf1NEqapNPt6QdXWzMd/PAKFM6bMK65x7mGMGgy8Ij9sP44XsHxhur1UlIONVOupQoWgZop/+Sa65QpY2b3j+CQhDJDy6K8rLlUBk4OTf7uQhHK"
@@ -791,6 +879,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Shekira Shah",
+      "collected": false,
       "secrets": [
         "w+t0/i2+K0PN04s2yz772yG9YfRGTpemqmJoY3CUZgKZqzntbbQ1XZSEmCfNfaiMLqtgtVQJmKy0Yjk0fZM5A5uoLbc8vDFBltPLJIN+qtUq5GKvB1aV/aF0bG0txHAl6K0wvGvbdA3H1Y0anXi2xCuv",
         "SDoCcMaM9RldhteldZHCPHLJkigtvYcLhZQ9ZIfP5XcSek9jhobrBwTRxLRz0pFrfd+TaT/6iAGblGwzisi6dhB5WznXju8bBoaXtz3RkzJ5kJFzbKWFUI6COWran/NQY3xGMoDpqldXgNGJI9ePI3jb"
@@ -800,6 +889,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Sheronne Richardson",
+      "collected": false,
       "secrets": [
         "A/hzWLrtKw==",
         "9IFUFwLu0w=="
@@ -809,6 +899,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Shivan Singh",
+      "collected": false,
       "secrets": [
         "9FN3J9s1ow=="
       ]
@@ -817,6 +908,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Shivesh Maharaj",
+      "collected": false,
       "secrets": [
         "2DgGLDs5oNcCMw0X1GxBn2eHmVPhQosTiTwEFFleZaOCeEs/ezO+yVtkHgbSLxLIaJGYEvMFhBmXPFkSUVxp/tIvX25/NL3VDDJPUJwqQMYw3p4Mo1rRTdF3UxBSWHOE835Cbn1c/5kINQs7gisMgG2V",
         "DMSQ6BU95/1oOfM1Nl1dKH8A2LguynuYOXnj86B2I8lWhN37VTf54zFu4CQwHg5/cBbZ+TyNdJIneb71qHQvlAbTyapRMPr/Zjixcn4bXHEoWd/nbNIhxmEytPercDXuJ4LUqlNYuLNiP/UZYBoQN3US"
@@ -826,6 +918,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Siarah Ali",
+      "collected": false,
       "secrets": [
         "hpJf8CtAxRgxvWrrZhYGHOSTbV72Ew8liuJ0mTQN9Dbc0hLja0rbBmjqefpgVVVL64VsH+RUAC+U4iGWa1r+NY/XBrBhHt0ab+8qrC4FBEDuyjwHulhYKYavJMw5WuIRrdQbsm0lmlY7u2zHMFJLA+6B"
       ]
@@ -834,6 +927,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Simoi Winchester",
+      "collected": false,
       "secrets": [
         "oFjzapdGFbDdMJT/G+Z/FydAF+aduB0OBXDUsQ5DGlD6GL5510wLroRnh+4dpSxAKFYWp4//EgQbcIm+AkcWAasbqn7UHg2y1mrZu1OtKEsoGRS9jKBGBVhng7UAQwx3ix63KNEjSv7XNpLTTaMyCC1S",
         "JtlsJrjehukEowpCxjfg9vYRlDlMZHRkS3hjL5pXpLt8mSE1+NSY9130GVPAdLOh+QeVeF4je25VeD4gllOo6i2aNTL7hp7rD/lHBo58t6r5SJdiXXwvbxZvNCuUV7KcDZ8oZP672acOpQxukHKt6fwD"
@@ -843,6 +937,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Suriya Sookdeo",
+      "collected": false,
       "secrets": [
         "A+7h3tHZcw==",
         "CNpchWetqA=="
@@ -852,6 +947,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Taryq Lodge",
+      "collected": false,
       "secrets": [
         "UOJj/Q1hNljwLu+J5ooSYnQu0BJjjzS6CXMKxoKKVHYKoi7uTWsoRql5/JjgyUE1ezjRU3HIO7AXc1nG2oJadl2nOuwdOnhapHj5z66bFWx7d4BFIpVu4wBoWZKL2EJRe6Qnv0sEaRb6KOmlsMBffX48",
         "bUuYlbc67sgRi2NTLRvWh1Qb3EvF8lgw6LTaIonEmBA3C9WG9zDw1kjccEIrWIXQWw3dCte1Vzr2tIki0cyWEGAOwYSnYaDKRd11FWUK0YlbQowchOgCaeGviXaAlo43Rg3c1/FfsYYbjWV/e1GbmF4J"
@@ -861,6 +957,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Trinity Persad",
+      "collected": false,
       "secrets": [
         "GWn8N8N00avFau22C7ypgeTZIo0kcHRRZ0z9dCChABRDKbEkg37PtZw9/qcN//rW688jzDY3e1t5TK1wKKkKSBd/pSWIKJypnTCu8UOr8t6ygH+GZGwgCDNXq3J7qBYzMi+4dYURjuXPbOuaXffknu7L",
         "cINM1TmCTwzjGy1J+rIits4MlFgraOXk7AIfyvupMBAqwwHGeYhRErpMPlj88XHhwRqVGTkv6u7yAk/O86E6TH6VFcdy3gIOu0FuDrKleemYVclTa3SxvbgZScygoCY3W8UIl3/nEELpHStlrPlvqcQe"
@@ -870,6 +967,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Tristan Mahabir",
+      "collected": false,
       "secrets": [
         "PkZoOxUZV1w+0zYgXyi7q8g/yJWgSc4SzMBI3pWwkz5kBiUoVRNJQmeEJTFZa+j8xynJ1LIOwRjSwB6NyLGZPzdXMXpTRkpeZIVyYBc+4PHFZs/I4FCbHMLcT9GetYUZFQAseVN8CBI01TAMDmr2tMIt",
         "FYbiGSbiO7hej+Mn2zf4MIiqOHpD6JObb8wBENPrY7xPxq8KZuglpgfY8DbddKtnh7w5O1GvnJFxzFdDjuppvRyXu1hgvSa6BNmnZ5Mho2qF8z8nA/HGlWHQBh/Y7nWbPsCmW2CHZPZUieULinW1L4K4"
@@ -879,6 +977,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Veshaiya Ganesh",
+      "collected": false,
       "secrets": [
         "twLf7Gyx38eVEYfs6HavBEFf26S366k+Rj63vMHWo0PtQpL/LLvB2cxGlP3uNfxTTkna5aWspjRYPuK6yYOvF71Phvl7v8bFmUaTr6A3qV8XBo/z8qP6YE9z5+nNgrVknESbrirUgImfF4HAuTXiG0tN",
         "hzF1RKqOx4UjmmpWUl4BwOWpCGWahpaH4GZ4BYxOERHdcThX6oTZm3rNeUdUHVKX6r8JJIjBmY3+Zi0DhBsdRY18LFG9gN6HL81+FRofB5uz8Fwy387F2ekrKFCAGgc2rHcxBuzrmMspnGx6Ax1M3++7"
@@ -888,6 +987,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Vivek Bahadur Singh",
+      "collected": false,
       "secrets": [
         "+iJLUa/Ln4IeYdqxduUlZYzLAXx0C6qNdb+rDnjOHMegYgZC78GBnEc2yaBwpnYyg90APWZMpYdrv6xbJM8Qk6FnEhbpw9OAEDaX8j70djqBkgdxZReohiHx+ll0zQrg0WQPE+muwMwUZ9ydJ6VoeobZ",
         "SPXMU+n5i2Ysao174uJ3mcxZBKrTKDVTXjIJI3TZILcStYFAqfOVeHU9nmrkoSTOw08F68FvOllAMg52KNgs4xOwlRSv8cdkIj3AOKrzJMbBAAKnwjQ3WAp8WHR42jaQY7OIEa+c1CgmbItXs6I6hsZL"
@@ -897,6 +997,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Yashodev Sawh",
+      "collected": false,
       "secrets": [
         "jv3keIpijsOihAC5Wi7GsXNBN7s1iRmRWRsOZEJ3VIbUvalrymiQ3fvTE6hcbZXmfFc2+ifOFptHGw5jSCRa29C8vWzJbsTB/oQWqxJvne0qGGe3IJEfnQMCDmFNIkKhpbugOswH0Y2oggaVC2+LrnlT",
         "hITTk1+WV3V/vyHnYUo1zavaTgF7iGeUaoVe+3c05vbexJ6AH5xJayboMvZnCWaapMxPQGnPaJ50hV78fWfoq9rFioccmh13I7839SkLbpHygx4NbpBhmDCcXv54YfDRr8KX0RnzCDt1uSfLMAt40qHI"
@@ -906,6 +1007,7 @@
       "year": 2025,
       "camp": "DCIT Bootcamp 2025",
       "name": "Zane Adams",
+      "collected": false,
       "secrets": [
         "I6+VAciBIw==",
         "4OyT0Zcm1A=="
@@ -915,6 +1017,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Akeel Khan",
+      "collected": false,
       "secrets": [
         "61rjzLEDcw==",
         "/Nbvkm3ayg=="
@@ -924,6 +1027,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Arjun Zayne Singh",
+      "collected": false,
       "secrets": [
         "5SU/gTA45uIG/DHPN9Bk70hjqGwWyl7mOlCLvyTCtXm/ZXKScDL4/F+rIt4xkze4R3WpLQSNUewkUNe6LMrpfrRjZpMmMq3gXqkg3X+SMuFEOvpgBtZZsG5P3L8rlaNezg55wXE2lvxZsTTYNA==",
         "Y6AsnZjnADbsYs0qiKJ2HhE54u0Av2HNwvBE/n6MkAY54GGO2O0eKLU13juO4SVJHi/jrBL4bsfc8Bj7doTMATLmdY+O7Us0tDfcOMDgIBAdYLDhEKNmm5bvE/5x24YhSItq3dnpcCizL8g9iw=="
@@ -933,6 +1037,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Carlton Thomas",
+      "collected": false,
       "secrets": [
         "3bCSBJTPOM8ykFXBL8wxtLnunSL6/JnDJbzKjMMatQGH8N8X1MUm0WvHRtApj2LjtvicY+i7lsk7vMrZw021AID2y0TWxCTNb8oZ12fYNuKxt5x4uOPClX+gmYLJHaMm9pvURNXBSNJxg0TU",
         "Y4Rc358cZQxtI8HHgpEJI/wvXxPMCYWmMEvf0IzyqOA5xBHM3xZ7EjR00taE0lp08zleUt5OiqwuS9+FjKWo4T7CBZ/dF3kOMHmN0cqFDnX0dl5Jjhbe8GpXjN6G9b7HSK8an94SFREuMNDS"
@@ -942,6 +1047,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Darren Lee",
+      "collected": false,
       "secrets": [
         "088WAGFErZucgvznQV2h+Q9e8KXp+g88+08LabZPGg+Jj1sTIU6zhcXV7/ZHHvKuAEjx5Pu9ADblT1lvu08WXoqJT0ggSbCZxYO+ogkboaJWB6HzpONaavBUXGm8Twwo+ORQQCBK3Yffke3y",
         "k0AcNFdKuavkHnhs1g7LhLberztbAuaOuHKlilOWzFnJAFEnF0Cntb1Ja33QTZjTuciueklF6YSmcveMXpbACMoGRXwWR6SpvR86KZ5Iy9/vh/5tFhuz2LNp8opZltp+uGtadBZEybenDWl5"
@@ -951,6 +1057,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Devonte Harewood",
+      "collected": false,
       "secrets": [
         "uVyTAK1OKVDh6H5pGYW0oFMgxA8pwf5HKoBkRjps+oTjHN4T7UQ3Tri/bXgfxuf3XDbFTjuG8U00gDMSMzyngrIeykDsFjZSur45KFGV56pYeZMHaNf4EX6ZYkU0PuyjknfVQOxAWU68pXt+Gg==",
         "2mbbYPORHuzvSy3LDlgW0rNrD1UZXvuUgtYveJ12d+aAJpZzs5sA8rYcPtoIG0WFvH0OFAsZ9J6c1ngslCYq4NEkgiCyyQHutB1qikZIRdi4MlhdWEj9wtbPKXuTJGHB8U2dILKfbvKyBijcDQ=="
@@ -960,6 +1067,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Genesis Semper",
+      "collected": false,
       "secrets": [
         "meupnsZbyRtOSvs7LCzp1NxCyVMMjkaqHpGDlfeI+b3Dq+SNhlHXBRcd6Coqb7qD01TIEh7JSaAAkYOS9t3z6sj58NaCA98ZEU/vf2Q964yFG5kJGZRHoRDdgJH53e+assDv3odVuQUWB/4sLw==",
         "9+fHTnHu4j5GRsAvLV9kvI0FVkBcxWB8YPHI6d/eVSCtp4pdMeT8IB8R0z4rHDfrghNXAU6Cb3Z+8cju3otfd6b1ngY1tvQ8GUPUa2VOZuTUXAYaSd9hd269y+3Ri0MH3MyBDjDgkiAeC8U4Lg=="
@@ -969,6 +1077,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Jada Marie Jack",
+      "collected": false,
       "secrets": [
         "XG/c0NmH8w6SRyAu6OFlG+UaH10WpwpIqPPZBtNOvAMGL5HDmY3tEMsQMz/uojZM6gweHATgBUK2890E0k+8UVV6hZLOib0MmR02ZaDyZBLvQxlVVrxcQ/Dv2AfYSaokd0SakJiJgxDLCiU56w==",
         "sR9ItTOsFd2HPF40zFRL5PgLO4U7GtSoaTJmVguVx5/rXwWmc6YLw95rTSXKFxiz9x06xCld26J3MmJUCpTHzbgKEfckolvfjGZIf4RHSu3yUj2NewGCozEuZ1cAktG4mjQO9XKiZcPecVsjzw=="
@@ -978,6 +1087,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Joel Francisco",
+      "collected": false,
       "secrets": [
         "9cJcdiVbxVc6tm1K7OyCwwztGmPW+t26gHQ2E7rY4TWvghFlZVHbSWPhflvqr9GUA/sbIsS90rCedGQSsN7haaiFBWNhUohVYuB9D6SrgJpStBk9krCI7NpoMEa23vcS3ukaNmRVtUlu+2hd7w==",
         "MTvfBqCfWJO8r4WVb5oZK9vxnUxjGIAejE2kCDe6Ghdre5IV4JVGjeX4loRp2Up81OecDXFfjxSSTfYJPbwaS2x8hhPklhWR5PmV0CfdG3KFqJ4SJ1LVSNZRol07vAwwGhCZRuGRKI3o4oCCbA=="
@@ -987,6 +1097,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Jonathan Smith",
+      "collected": false,
       "secrets": [
         "KOwFJ/6RbQ==",
         "K/35pAmDbw=="
@@ -996,6 +1107,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Joseph Oliveire",
+      "collected": false,
       "secrets": [
         "Yha2LAdJqHD7d7ytoIJnv6BLiG6KkJYzpnlt29gqIsY4Vvs/R0O2bqIgr7ymwTTor12JL5jXmTm4eTnYgyotljlX7z4WF+Fy8iD8vOiTMrOvEtplm4uTaPowPNnVfTThST3wbEZH2Gm4ZK24",
         "veewMKjLcaNfN8XTyL17LOAUxIEweWU3+1mJeUSLJ37np/0j6MFvvQZg1sLO/ih77wLFwCI+aj3lWd16H4soLuam6SK5lTihVmCFwoCsLiDvTZaKIWJgbKcQ2HtJ3DFZlsz2cOnFAbocJNTG"
@@ -1005,6 +1117,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Jozara Carrington",
+      "collected": false,
       "secrets": [
         "rI+6Y8Ozuw==",
         "bBvLemHEXw=="
@@ -1014,6 +1127,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Julissa Julien",
+      "collected": false,
       "secrets": [
         "/4+fR/X5EYwmcdPI1BI4W1TF7ZrplxxLdNYVKy8KBJelz9JUtfMPkn8mwNnSUWsMW9Ps2/vQE0Fq1kR/dAwJxvPDxgK3oFiOf3PDj5wFPQxZnO7ErYlLQSydEXtyXxKw1KTZB7T3YZJ6PNbf1w==",
         "KRVKHttkd9/GB5adi510GGOmpN22hhRlbD2KmZSyDUdzVQcNm25pwZ9QhYyN3idPbLClnKTBG29yPdvNz7QAFiVZE1uZPT7dnwWG2sOKcU9u/6eD8phDbzR2jsnJ5xtgAj4MXppqB8GaSpOKiA=="
@@ -1023,6 +1137,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Karishma Persad",
+      "collected": false,
       "secrets": [
         "gPdBPHL1yA==",
         "Vm8jgnawEg=="
@@ -1032,6 +1147,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Kayla Linton",
+      "collected": false,
       "secrets": [
         "Rjvaj+bI3BlONkJMojB96KEZki9VgTog1VDeTxRAUdgce5ecpsLCBxdhUV2kcy6/rg+TbkfGNSrLUN9JHUcN2xZ/g8fwlMobEzNUWepzKLX3QMIlFJ9sK4pNgx8aFEf/bRCcz6fGrAcVe0dboQ==",
         "RwZh3jlyEM822oORoDXY6ldBO70/x4dzkOg79jTwPUMdRizNeXgO0W+NkICmdou9WFc6/C2AiHmO6DrwPfdhQBdCOJYvLgbNa9+VhOh2jbcBGGu3ftnReM/1ZqY6pCtkbC0nnnh8YNFtl4aGow=="
@@ -1041,6 +1157,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Keanu Weekes",
+      "collected": false,
       "secrets": [
         "WKY9gDQXIdMlFjnNC3vCT3gOhZeZsGsW7bUbJfF/MGEC5nCTdB0/zXxBKtwNOJEYdxiE1ov3ZBzztU9x8Xg+N1LjZMJzTjnRLEJ83UMxwhImV9abj6hsSLGiSSP7eyZGc417wHUZUclmBSjY",
         "t0giY6WoWJQ2/CpkuLtt3FvyYK3F/ZXt5ww5AK91GKztCG9w5aJGim+rOXW++D6LVORh7Ne6muf5DG1Ur3IW+r0NeyHi8UCWP6hvdPDxbYEFqzOh0+WSs7sbawalcQ6LnGNkI+SmKI517ztx"
@@ -1050,6 +1167,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Kylon Bramble",
+      "collected": false,
       "secrets": [
         "1H2tsGC59w==",
         "UPWpOyjl0A=="
@@ -1059,6 +1177,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Maya Miller",
+      "collected": false,
       "secrets": [
         "nr0VbG2czbT7hl2SpoaGc1tSj8IDJLzk5fWNHvtCEPzE/Vh/LZbTqqLRToOgxdUkVESOgxFjs+779YlM9EEQ/5KvTH0pwtu2roYe0e7NgCwGC4+UEz+77+vi3E7wQgbbtZZTLCySva+4lUyH",
         "Izt81waTLMseF2ozosdJFwhNl28OITDOamrBWAqXYUt5ezHERpky1UdAeSKkhBpAB1uWLhxmP8R0asUKBZRhSC8pJcZCzTrJSxcpcOqMT0hVFJc5Hjo3xWR9kAgBl3dsCBA6l0edXNBdBHsm"
@@ -1068,6 +1187,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Micah Joseph",
+      "collected": false,
       "secrets": [
         "ZUy79mMJ/yBKn5/Utt4nQdcTovsjqM718DYsR+ON3Jg/DPblIwPhPhPIjMWwnXQW2AWjujHvwf/uNihJvoyHzWxe4rMmB+YiRM3Zxf6efR+LSqanY7WVq6Qhf0jij8q/Tmf9tiIHjzYJjI7B",
         "NO8C3mf8mAdDJOin7jF6KKvfmIk7NcM7TPG4E6X9zN9ur0/NJ/aGGRpz+7bocil/pMmZyClyzDFS8bwd+PyXij39W5si8oEFTXautqZxIHb3hpzVeyiYZRjm6xyk/9r4H8REniby6BEAN/my"
@@ -1077,6 +1197,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Nkomo Mitchell",
+      "collected": false,
       "secrets": [
         "vpWTJrjcdwNidC7tD4CH1yJpZyEbJHPgL3cDwwbzP5Xk1d41+NZpHTsjPfwJw9SALX9mYAljfOoxd16WCfdjlu7Tyjf832sBbXM9pkfDgYguMDV2DT4i7XQ7BMMI8Smylb7VZvnSBx03OSv6DA==",
         "+zmxxpGyacb0RGTqIbnzCC6WsmVztqNStSYTwSNJvKahefzV0bh32K0Td/sn+qBfIYCzJGHxrFirJk6ULE3gpat/6NfVsXXE+0N3oWn69Vciz+AyZazyX+5qFMEtS6qB0BL3htC8GdihCWH9Ig=="
@@ -1086,6 +1207,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Sage Woodley",
+      "collected": false,
       "secrets": [
         "QHNaUVWQPq5eOfpOkX8Z1sVl8UK56p4z9QtKL0ysKeMaMxdCFZogsAdu6V+XPEqBynPwA6utkTnrCxwvQfgj4BExA0NHzHOsCmy7XNlpQ4rIPKIdrvHKPfsTSi5H/D/Ea1gcERSeTrYdKutb",
         "GHC8aoSresQc5FcyvNCQmhgMEO1WLKeN+Em5zBNqJ71CMPF5xKFk2kWzRCO6k8PNFxoRrERrqIfmSe/MHj4tvkky5XiW9zfGSLEWIPTGysYVVUOyQTfzg/ZRuc0YOjGaM1v6KsWlCtxf90Yn"
@@ -1095,6 +1217,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Shermelle Darlington Park",
+      "collected": false,
       "secrets": [
         "AG45xjor1GjhHVb14kL/dn7Oz3rbEfoGfo+gvlWJ9bZaLnTVeiHKdrhKReTkAawhcdjOO8lW9Qxgj6DtVYuu5l94YIMsJsNquUxHtKpVqi4kl8shzl2tCCTC9+5f2+ORK0V/hnslpHa7UFPi4Q==",
         "L7s1F+CcvwDcd4hlfzm6ULwZwQb3l832M3NDU2nP82t1+3gEoJahHoUgm3R5eukHsw/AR+XQwvwtc0MAac2oO3CtbFL2kagChCaZJDcu7wjmQMVd4tua+Gk+FANjneVMBJBzV6GSzx6GOo1yfA=="
@@ -1104,6 +1227,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Skyler Bruce",
+      "collected": false,
       "secrets": [
         "rS/SBLjkAf8Jdpz+E9RNVfI/VWeniIkZhGWCmQ885ND3b58X+O4f4VAhj+8Vlx4C/SlUJrXPhhOaZYPKAj/tgPxuixHzuBn9VyHctFvDTV/6Zgk8sJ/TFI0rg8wFPfL3hgSURPnqceFXO5npEA==",
         "3rGDM8oOg/GY4eqT81zbfoOWG7C/7EyFxnBXQP43rMSE8c4gigSd78G2+YL1H4gpjIAa8a2rQ4/YcFYT8zSllI/w2iaBUpvzxraq2btL23SLz0frqPsWiM8+VhX0Nrrj9ZrFc4sA8+/GrO+E8A=="
@@ -1113,6 +1237,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Syrriah Pompey",
+      "collected": false,
       "secrets": [
         "JpsgpJ+Q7g==",
         "JA8EuZ3EiA=="
@@ -1122,6 +1247,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Terell Munroe",
+      "collected": false,
       "secrets": [
         "st/BYG2tzZU60+So3n0ZytHHfm/pFLaexQHcxBj6YdXon4xzLafTi2OE97nYPkqd3tF/LvtTuZTbAdqUGa9sh+zOmCR984GXNoKo6JZsQpeGnnkzpAOzyJ8agMsYqHfymfSHICyjvYJ5wPW9",
         "+j37nvG2pF6AO9aH0TDoS8WwqwE08ex8SjvHBagn6kugfbaNsby6QNlsxZbXc7scyqaqQCa243ZUO8FVqXLnGaQsotrh6OhcjGqax5khsxaS6axdeebpKhAgmwqodfxs0Ra93rC41EnDKMeS"
@@ -1131,6 +1257,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Tia Perez",
+      "collected": false,
       "secrets": [
         "AIWCoSv0y2kaQBykrxW5PblPnez4AV9mDF0BQE/vKcVaxc+ya/7Vd0MXD7WpVupqtlmcrepGUGwSXVFERu4olV/G2+Jo9oJrEUcPtecE6zfkFsiyux1YPlBGBkMX6T/iK67E4Wr6u3dZUw2x",
         "AbHr5cRTtBOkPrRmot/bACjf5Ba84ePNICEEdCLCXctb8ab2hFmqDf1pp3eknIhXJ8nlV66m7Mc+IVRwK8Ncm17ysqaHUf0Rrzmnd+rOiQp1hrFI//3klXw6A3d6xEvsKpqtpYVdxA3nLaVz"
@@ -1140,6 +1267,7 @@
       "year": 2024,
       "camp": "DCIT Bootcamp 2024",
       "name": "Tiffany Amoroso",
+      "collected": false,
       "secrets": [
         "vqnStzikcg==",
         "m7d2d7LVGA=="
@@ -1149,6 +1277,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Alejandro Joseph",
+      "collected": false,
       "secrets": [
         "3MMQN0VDBQ==",
         "aUnJkVSeoQ=="
@@ -1158,6 +1287,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Amand Basdeo",
+      "collected": false,
       "secrets": [
         "mvv3O87SpVUuCpFPKFWemcQERaFBEIyKWBD8/qoI9MnAu7oojti7S3ddgl4uFs3OyxJE4FNXg4BGEP2so1+um5Hsrn2MibpXIVrUBWBCxcOaXRCqVAzZ0AIIqq6jDOLtn+7tL+Kq6wknDIsSPUOb",
         "/YNC5JdJFzn6w400gHhDQ2PnEmTPmoqFsDBEaRRGFTynww/310MJJ6OUniWGOxAUbPETJd3dhY+uMEU7HRFPbvaUG6LVEgg79ZPIfshvGBk9vkdv2obf3+ooEjkdQgMY+JZY8LsxWWXzxZdplW5G"
@@ -1167,6 +1297,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Amrita S. Oudit",
+      "collected": false,
       "secrets": [
         "QdwL7JG5gwBRqys2biQj5AZfkzxdUxjN1vnZGLLDW6EbnEb/0bOdHgj8OCdoZ3CzCUmSfU8UF8fI+d0ds8tbokqZUqqH4ZgCXa5sJyY3JrJaBsMxGkoexI60jB2/xE2FRNoW6IPc/wFjhyshYiJu+wxN",
         "aOKcGd/o0oZcDpRhxdhQjG85eGCBLzxoVjMCgFk4060yotEKn+LMmAVZh3DDmwPbYC95IZNoM2JIMwaFWDDTrmOnxV/JsMmEUAvTcI3LVdozYChtxjY6YQ5+V4VUP8WJbeSBHc2NroduIpR2yd4dk2Ur"
@@ -1176,6 +1307,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Anastasia Ramai",
+      "collected": false,
       "secrets": [
         "r3gPmXRUl+rgiD3c1SKdGIocBJsIbD6Xk10dM88SyZD1OEKKNF6J9LnfLs3TYc5PhQoF2horMZ2NXRwywhvJlKE4VtkxCoHo69J/mJ1lx0HURQeUGXc7wcsXGmeSE9+0qW0InWYd0aTSuSnC0TnQB4AO",
         "h1pZxE4tWR9EQ/1pGOeYzEkJLdV0MsWalbQZIJt3SZzdGhTXDidHAR0U7ngepMubRh8slGZ1ypCLtBghln5JmIkaAIQLc08dTxm/LVCgwpUXUC7aZSnAzM3+HnTGdl+4gU9ewFxkH1F2cul3HPzV00Mb"
@@ -1185,6 +1317,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Arjun Singh",
+      "collected": false,
       "secrets": [
         "5SU/gTA45uIG/DHPN9Bk70hjqGwWyl7mOlCLvyTCtXm/ZXKScDL4/F+rIt4xkze4R3WpLQSNUewkUNroLpW5euw0ZsNxNqrgCacihH+bMeIfOqw3UYEM6DNO3bh+kaNd/zs+nxxRoKMM92rMNsQ=",
         "Y6AsnZjnADbsYs0qiKJ2HhE54u0Av2HNwvBE/n6MkAY54GGO2O0eKLU13juO4SVJHi/jrBL4bsfc8BWpdNucBWqxdd/Z6Uw04zneYcDpIxNGYOa2R/Qzw8vuEvkk34Yieb4tg7SORnfmaZYpibY="
@@ -1194,6 +1327,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Brandon Lewis",
+      "collected": false,
       "secrets": [
         "KzHyI0oVW+WInLEO7MHt9H2Nde8L/VNP/MmUBd2brnFxcb8wCh9F+9HLoh/qgr6jcpt0rhm6XEXiyZcF1ZmkIXpwq2tcGhbn18aiGaSAvahx1CHgHOAHFKCAwlbQy7hWMSToN1ZBK4aAiK0Op8Pq/Q==",
         "BaVxjbPsUpG83+AfNPXxTNzLHA6ekr5MGr3NU6o/9c5f5Tye8+ZMj+WI8w4ytqIb090dT4zVsUYEvc5Toj3/nlTkKMWl4x+T44XzCHy0oRDQkkgBiY/qF0b0mwCnb+PpH7Brma+4IvK0y/wff/f2RQ=="
@@ -1203,6 +1337,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Briana Fonrose",
+      "collected": false,
       "secrets": [
         "+MU7j8C/OPevJVbRRu+2OjVGL9Sin2Iq7YwsQYuQnGOihXacgLUm6fZyRcBArOVtOlAulbDYbSDzjCwT0JKcNfHUYp3VtXb1oHMWkA744TZqHyyPt9c1c7DHe06FlYpE4tgukdLaUbesNEzRRrOlMT0=",
         "MVgPWlAFV7Jexv+MThbYaRyl3CocBIKwJkcQJ5ewcq5rGEJJEA9JrAeR7J1IVYs+E7Pdaw5Djbo4RxB1zLJy+DhJVkhFDxmwUZC/zQYBj2VD/N9xCUzV6XsMRyiZtWSJK0UaREJgPvJd1+WMTkrLYhQ="
@@ -1212,6 +1347,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Britney Rooplal",
+      "collected": false,
       "secrets": [
         "gCBrf72m3rVr0IJnvtgrPYdNNxfgS58APZxOVweT/DbaYCZs/azAqzKHkXa4m3hqiFs2VvIMkAojnEpVW5emYNwyMmv2+pC3NoKUIfbLLWPcFDcdoFaaWGnVGAQOw+oRmj1rYavlrshp3Id4usZmIo1f",
         "ChXqh4tpwA8kyTlJZGn0UVsMyMo734G54HrGltbW1DFQVaeUy2PeEX2eKlhiKqcGVBrJiymYjrP+esKUitKOZ1YHs5PANY4NeZsvDyx68g8AVcjAe8KE4bQzkMXfhsIWEAjqmZ0qsHImxTxWYHe5TlEe"
@@ -1221,6 +1357,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Charnelle Villafana",
+      "collected": false,
       "secrets": [
         "EsS6ulL1uw==",
         "hZtJykjGxw=="
@@ -1230,6 +1367,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Deneisha Dempster",
+      "collected": false,
       "secrets": [
         "XWSj/NZFocjbyN+NFQ42q/A65adniigt9odc6PpyYaIHJO7vlk+/1oKfzJwTTWX8/yzk5nXNJyfohw3n8Xdr81Ak+riTHLrKhsqeyl1KZ/2nY+Svd5JycqKQXO2gIXeDUH6y5dYX77jyzseOAwgwtrA+5K8=",
         "crnmpRqELZfyT6/L9iVO5VJ/OgmbzY2NOkkShcxjkrUo+au2Wo4ziasYvNrwZh2yXWk7SImKgockSUOKx2aY5H/5v+Ff3TaVr03ujL5hH7MFJjsBi9XX0m5eEoCWMISUf6P3vBrWY+fbSbfI4CNI+BJ7OwE="
@@ -1239,6 +1377,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Elijah Lewis",
+      "collected": false,
       "secrets": [
         "jjZioIejqP/q0Aqv6Jh8IEueGd3uA9ZHCKeG4sJ4C0LUdi+zx6m24bOHGb7u2y93RIgYnPxE2U0Wp9CxnihWEdQnO7OSrLT94oscv6DceSpGx0yE/EmMGla5gbCaKx1iiit8sZzGy7Xw2gzy/Y55",
         "TkBg+tHhICInTm3XWBLL4c4IUnLqSCjinqVjbMlyuZMUAC3pkes+PH4ZfsZeUZi2wR5TM/gPJ+iApTU/lSLkwBRROenE7jwgLxV7xxBWzuvDUQcr+AJyv8C7ZD6RIa+zSl1+68qEQ2g9RGuKTQTO"
@@ -1248,6 +1387,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Farhaan Ali",
+      "collected": false,
       "secrets": [
         "puIxnEqw7A==",
         "DLn90w03jA=="
@@ -1257,6 +1397,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Giana Schneider",
+      "collected": false,
       "secrets": [
         "klQjID4fVKkA3wQ5i4hs8QMx2XpIVhaiYnsUHYXcZ2nIFG4zfhVKt1mIFyiNyz+mDCfYO1oRGah8exMY3989OMMZemIoREqrC9oTKcPPOPgMaIktCBlB+TdlQBuPjnFLk0E5MRJ2GO4D2Rgui4gh7gkj",
         "bFh5ElaQL4ABIzeK/2FyvlJvB0UdOmcPn8vJaiZCekM2GDQBFpoxnlh0JJv5IiHpXXkGBA99aAWBy85vfEEgEj0VIFBAyzGCCiYgmrcmJrddNlcSXXUwVMrVnWwsEGxhbU1jA3r5Y8cCJSud/2E/oVh9"
@@ -1266,6 +1407,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Jada Barrow",
+      "collected": false,
       "secrets": [
         "uu2X2Fw8x0rAh+NaNfhSJ0WnB1QHY/M3LZ/mJh3dKIHgrdrLHDbZVJnQ8EszuwFwSrEGFRUk/D0zn7N1EYpy0uL8zp0WNtpIz9DyGH3oAi4S/lcCRyigaXSDuyFH1D6us/2C921nmhfCk7hZNOw=",
         "o2SSXngUgKX3SZgHOvh23xCcmf1eo8MTXEg4yoVQY8j5JN9NOB6eu64eixY8uyWIH4qYvEzkzBlCSG2ZiQc5m/t1yxsyHp2n+B6JRXLoJtZHxcmrHuiQTQVUZc3fWXXnqnSHcUlP3fj1XcMEO+w="
@@ -1275,6 +1417,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Jayden Ali",
+      "collected": false,
       "secrets": [
         "81AyrbPsRc9fAYKyHMkVzflJ1kx75DLBiIWMV3yAdTSpEH++8+Zb0QZWkaMaikaa9l/XDWmjPcuWhdFVJtN/ZfkTa+XzslrNU1qS91SCT8OiENcTbahmn9CSigdy0mMb+l0iuK6JK4xbTIelHw==",
         "T8OL3kKTQ6rwhMaQyurcb32l94Kxf5mC9yclqDpX220Vg8bNApldtKnT1YHMqY84crP2w6M4lojpJ3iqYATRPEWA0pYCzVyo/N/W1YKhhmEm/PbdpzPN3K8wI/g0Bc1CRs6by1/2Len0ycOHyQ=="
@@ -1284,6 +1427,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Jelani James",
+      "collected": false,
       "secrets": [
         "lno3nquEY8HHxwn4sov4NKMN+UVRYZ5WAgFNPSpvRlDMOnqN6459356QGum0yKtjrBv4BEMmkVwcARxucTxHAMY5btzujXrDkp0Ys/rJqz74VKpJEHmeDVlKTW4iZlB/m2IigLHhBo/HwQ+lp539",
         "YAxTT3GuuxB0yhe3QEbrKCyCihRQ3Mz+x/c4q1h+yZk6TB5cMaSlDi2dBKZGBbh/I5SLVUKbw/TZ92n4Ay3IyTBPCg00p6ISIZAG/AgEuCJ329kYEcTMpZy8OPhQd9+2bRRGUWvL3l50zBHqVVDu"
@@ -1293,6 +1437,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Jodi Barrow",
+      "collected": false,
       "secrets": [
         "cuH0SQbmUpQ3NhkP9utA8L6S5OTjrVavR7YlM6KMKEUooblaRuxMim5hCh7wqBOnsYTlpfHqWaVZtnEx+o4pFCnzrVhNuEiWOW1fSb6rRvy2y7a7pbVQ8xP4dGP6jz5qdfHpZje9D8k1IkIM9/8=",
         "o2SSXngUgKX3SZgHOvh23xCcmf1eo8MTXEg4yoVQY8j5JN9NOB6eu64eixY8uyWIH4qYvEzkzBlCSGzI3VJimfh2y08zSpqn+RLeQXK4cNMYxcuiGLvFTwgGaZrdU3XnpHSPcUlP3fj1XcMEO+w="
@@ -1302,6 +1447,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Jordan Juman",
+      "collected": false,
       "secrets": [
         "hqE6eeIe2NbCJtMp4VSMAqMbBj75NhrKERgec7Mrl93c4XdqohTGyJtxwDjnF99VrA0Hf+txFcAPGB92sy3IiYqxYzygEsfUnnzFaqlFigyoQgZpuH1MlEoHTXHoLYHygacqaP97vYzCJMh09EKJ",
         "o3EWbUMbECpOPFAxDQfG+5cMxjnCBmj4ap4doX5Myuv5MVt+AxEONBdrQyALRJWsmBrHeNBBZ/J0nhykfkqVv69hTygBFw8oEmZGckUWwPWcVcZug00+pjGBTqMlStzEpHcGfF5+dXBOPktsGBHD"
@@ -1311,6 +1457,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Joshua Seemungal",
+      "collected": false,
       "secrets": [
         "P2t4bR4tkw==",
         "HpDTf0UEJg=="
@@ -1320,6 +1467,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Jozara Carrington",
+      "collected": false,
       "secrets": [
         "tJ6gd9nn8yzXDT8xLc5rPfRKH9GnChnIY5l15tJYQ4Xu3u1kme3tMo5aLCArjThq+1wekLVNFsJ9mSKx01Aegr+P+T/JvL8uiF57IWWOaTepE07e4UBJxG2FI7HeDFWqs5C1dcuCn2LIHCMsL8hnPLROHtk=",
         "dArRbnuQF3YlS1CWy1t8QMq50RAOEWK/wLV9LfmPkrguSpx9O5oJaHwcQ4fNGC8Xxa/QURxWbbXetSp6+IfPv38biCZry1t0ehgUhoMbfkqX4IAfSFsys86pK3r124SXcwTEbGn1ezg6WkyLyV1wQYq90Bg="
@@ -1329,6 +1477,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Juantivan Vialva",
+      "collected": false,
       "secrets": [
         "n/TfgzFqL6lC+KVsY0tGj7OFjWI5uO9s8XGI5Ds9XE3FtJKQcWAxtxuvtn1lCBXYvJOMIyv/4GbvcdSzYTpRTpaxhpcjNDmrHaK1eSsNFYG53NBqLvW7Yas63rRnOEpiguHFhysmYehwzbl+ak9Ezq2Vjg==",
         "D2JDsemQLPQWs2HHmgp/bsKkq4YWVyoVtP83FEstZ0ZVIg6iqZoy6k/kctacSSw5zbKqxwQQJR+q/2tDESpqRQYnGqX7zjr2Selx0tJMLGDI/faOARp+GO60YUQXKHFpEndZtfPcYrUkhn3Vkw59L9y0qA=="
@@ -1338,6 +1487,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Khaelon Dickson",
+      "collected": false,
       "secrets": [
         "OAGum8TIVnjcxf52qIy7pgraMCUuWo7s/lRttX2bLqViQeOIhMJIZoWS7Weuz+jxBcwxZDwdgebgVDGzfcsuomgT99jTxB96h5XuZODL4fAAg2RzaUzd5qVKOeEiyDiLOBS/h9icJhPYxeB2opD2uQDI",
         "oqBj+Gp9QVe+NHJIqd0771kk7IQt+/M9fRg+NbsFRRb44C7rKndfSedjYVmvnmi4VjLtxT+8/DdjGGIzu1VFEfKyOrt9cQhV5WRiWuGaYblTfbjSau2gNyYGamHkVlM4orVy5HYpMTy6NGxIo8F28FM2"
@@ -1347,6 +1497,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Kobe Melville",
+      "collected": false,
       "secrets": [
         "NaFbMJY/+pzav1kDquNVjtwJ8AVxyEsU0sOwunGEh9lv4RYj1jXkgoPoShKsoAbZ0x/xRGOPRB7Mw7C9Lo3YhW7lAiLSMLGeh+VIQ+KiU9XTUPQJMdYQToba47h70ZH3MrdKH6hgucXesEAV4eFShw==",
         "qdycZ49PilG3D5JpoZ/0BWsSSw1MA37goWo1D+nBQNjznNF0z0WUT+5YgXin3KdSZARKTF5Eceq/ajUItsgfhPKYxXXLQMFT6lWDKene8l5kS08BDB0luvVzZg3jlFb2rsqNSLEQyQizAIt/6p3zDA=="
@@ -1356,6 +1507,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Maleena Mathura",
+      "collected": false,
       "secrets": [
         "r+tEwzZACQ==",
         "MDhsxyj/NA=="
@@ -1365,6 +1517,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Miguel Beharrysingh",
+      "collected": false,
       "secrets": [
         "Ck0d+H982L8nYCClPaDeYrIo2/4cQKwKYsMLxjeecJ1QDVDrP3bGoX43M7Q74401vT7avw4HowB8w1vJbMx8wFVaROs1I8S9LjYwt3Xj3D/rcY7zCgz4BzvaCMc7l2a1C14c7WAZtfUiYiekIaHUY7s0kOAMCA==",
         "/TRlLagyxBdF+MYZNGPfUfJagoiOh/PL9itOtYwSDx6ndCg+6DjaCRyv1QgyIIwG/UyDyZzA/MHoKx6610ADQ6IjPD7ibdgVTK7WC3wg3QyrA9eFmMunxq8yTbSAGxk2/CdkOLdXqV1A+sEYKGLVUPtGyZaezw=="
@@ -1374,6 +1527,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "NATHANIEL PHILLIP",
+      "collected": false,
       "secrets": [
         "p8tOATL56ew3nVVZqA1yQWpogpCK+vgPVSTDpdG+hpz9iwMScvP38m7KRkiuTiEWZX6D0Zi99wVLJJLwjemOyPbbFxVx8fLuY5oVSeBJcxs8MYXMz+39VA48kveJ7pC3jutyMA+Kg48FrmhjgTNYfipsg5g=",
         "pE1k868x5RLWqJ8IDvBiktaLYaS6NJSdQTRBNpsbTvv+DSng7zv7DI//jBkIszHF2Z1g5ahzm5dfNBBjx0xGr/VdPefsOf4Qgq/fGEa0Y8iA0mb4/yORxhosEGTDS1jQjW1YwpJCj3Hkm6IyJ85IrZaPYKw="
@@ -1383,6 +1537,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Nishelle Rennie",
+      "collected": false,
       "secrets": [
         "jk7b4MrBB3Soq8cDGaDs3dGmznFJLoO51OJEF9s04JzUDpbzissZavH81BIf47+K3rDPMFtpjLPK4kIThmPoyNELgqXdyhh28vCLFFHm6tHd/8p7DTDZtYCoE0TWMPa3j0nH9dWXTQSXrdweFbehwtu0",
         "ni32+udLoyxVdQXpzG6O9yZ6GalZ61r8TADRyLtWJpbEbbvpp0G9MgwiFvjKLd2gKWwY6EusVfZSANfM5gEuwsFor7/wQLwuDy5J/oQoiPsqIx2jHfUA8BhKhpu2UjC9nyrq7/gd6Vxqcx70wHnD6Cxo"
@@ -1392,6 +1547,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Raihaan Raheem",
+      "collected": false,
       "secrets": [
         "VlF67su1aA=="
       ]
@@ -1400,6 +1556,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Sameer Mohammed",
+      "collected": false,
       "secrets": [
         "mlVALkvbbQ7bI7lpLcoaH00PxQ3jqQzkJqDigVr6xt/AFQ09C9FzEIJ0qngriUlIQhnETPHuA+44oLbWB/iZjsUWGW9a2CEM0Hj8LWXbSEFBVsEB8rBfv3q7t9ZXr9Dpk0xRO0q+D07eIaF3LdxXAEcd",
         "tjPuBbJX6RcW0bO3agy5SFnrkR+dj8Kvjm4C2WTUM6Psc6MW8l33CU+GoKZsT+ofVv2QXo/IzaWQblaOOdZs8ulwt0SjVKUVHYr28yId6xZVspUTjJaR9NJ1V45pgSWVvyr/ELMyi1cT06upahr0V1P5"
@@ -1409,6 +1566,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Sarvadev Dwarika",
+      "collected": false,
       "secrets": [
         "xRaMqPpoWYqOCUUC7XFNP5HD+y3kQx/r/hvT3veOytufVsG7umJHlNdeVhPrMh5ontX6bPYEEOHgG9CMrYmQ35VU1e7vZk+I1VoDQ6ViH2WbmqZ6qFhKsKBX1NGritztzBCOue03APqnHVED4WhPfo/T+A==",
         "lQzI587drgQH04XqjDJDT2Qf/01G1dAaeY76nHEzqVnPTIX0jtewGl6ElvuKcRAYawn+DFSS3xBnjvnOKzTzXcVOkaHb07gGXIDDq8QhERVuRqIaCs6FQSfC/ZMtN79vnArK9tmC93Qux5HrgCtBDnoP/A=="
@@ -1418,6 +1576,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Sean Parasram",
+      "collected": false,
       "secrets": [
         "xcusXTMj5/koX5fBpbrPbm897r656sZN0LanBzj3t42fi+FOcyn553EIhNCj+Zw5YCvv/6utyUfOtqZVM/Xr3pza9R12Kq37Jlra1u2unzk4ZLm1+/SUFYut91Qz/6G7yN62chB4urc2ToPf7rjIZw=="
       ]
@@ -1426,6 +1585,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Zachary Mc Neil",
+      "collected": false,
       "secrets": [
         "/l8w1Lpq1SW0JLN8g2HyjWa7Pl8G++ucxEKpA/H51DSkH33H+mDLO+1zoG2FIqHaaa0/HhS85JbaQqhUrKqPZqFPaZKvZswn4HCkP8srqYNr4jkDE+a4kpwM+wasqcIL90gsxbsppUe6GIhqj3+/kmyp",
         "3EaO90fSAHsmc+xDT/yLPs1e8w4+ABUFkQVBfjxiV06GBsPkB9geZX8k/1JJv9hpwkjyTyxHGg+PBUApYTEMHINW17FS3hl5cif7AAe20DDAB/RSKx1GC8lLE3thMkFx1VGS5kaRcBkoT9dVQ+LGIcdM"
@@ -1435,6 +1595,7 @@
       "year": 2023,
       "camp": "DCIT Bootcamp 2023",
       "name": "Zuri Boucaud",
+      "collected": false,
       "secrets": [
         "HslppLvchgWeLzd5aEmWLmau70geUKdDpZeaoXnSh6lEiSS3+9aYG8d4JGhuCsV5abjuCQwXqEm7l82idIfbqUCMMLWthc8HyigkOyAMzXY59+4eWUf8Tf3bnaRx2pGWA890i4qJ3EmSOSYkfV+T",
         "IFzHpf3PA02wLMm85MdZguluh5wQCOq176n9takjqWF6HIq2vcUdU+l72q3ihArV5niG3QJP5b/xqaq2pHb1YX4ZnrTrlkpP5Cva/qyCAtq2N4bKVx+xu7fl+rChK79ePVraisyaWQG8Otjh8dFc"

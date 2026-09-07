@@ -4,6 +4,7 @@ import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
 const sourcePath = path.join(root, 'data', 'raw', 'certificates.private.json');
+const collectedPath = path.join(root, 'data', 'raw', 'collected.json');
 const outputPath = path.join(root, 'public', 'data', 'certificates.json');
 
 function normalizeEmail(value) {
@@ -20,6 +21,10 @@ function normalizeName(value) {
     .trim();
 }
 
+function collectedKey(year, name) {
+  return `${year}::${normalizeName(name).toLowerCase()}`;
+}
+
 function encryptSecret(plaintext, email) {
   const key = createHash('sha256').update(normalizeEmail(email)).digest();
   const data = Buffer.from(plaintext, 'utf8');
@@ -30,7 +35,23 @@ function encryptSecret(plaintext, email) {
   return output.toString('base64');
 }
 
+async function readCollectedKeys() {
+  try {
+    const payload = JSON.parse(await readFile(collectedPath, 'utf8'));
+    const keys = new Set();
+    for (const entry of payload.records || []) {
+      if (!entry?.year || !entry?.name) continue;
+      keys.add(collectedKey(entry.year, entry.name));
+    }
+    return keys;
+  } catch (error) {
+    if (error && error.code === 'ENOENT') return new Set();
+    throw error;
+  }
+}
+
 const source = JSON.parse(await readFile(sourcePath, 'utf8'));
+const collected = await readCollectedKeys();
 const records = [];
 
 for (const entry of source.records) {
@@ -46,6 +67,7 @@ for (const entry of source.records) {
     year: entry.year,
     camp: entry.camp,
     name,
+    collected: collected.has(collectedKey(entry.year, name)),
     secrets
   });
 }
@@ -58,7 +80,8 @@ await writeFile(
   `${JSON.stringify(
     {
       generatedAt: new Date().toISOString().slice(0, 10),
-      privacy: 'Emails are not stored. Certificate URLs are encrypted with the registration email.',
+      privacy:
+        'Emails are not stored. Certificate URLs are encrypted with the registration email. collected means they already unlocked via this app (survey done), not merely that a cert was issued.',
       records
     },
     null,
@@ -66,4 +89,7 @@ await writeFile(
   )}\n`
 );
 
-console.log(`Wrote ${records.length} certificate lookup records to public/data/certificates.json`);
+const collectedCount = records.filter((record) => record.collected).length;
+console.log(
+  `Wrote ${records.length} certificate lookup records (${collectedCount} already collected) to public/data/certificates.json`
+);
